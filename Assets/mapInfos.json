@@ -1,0 +1,615 @@
+{
+   "object": "Genesis8Female",
+   "shape": "Genesis8Female",
+   "numberOfMaterials": 16,
+   "materials": {
+      "Torso": {
+         "assetId": "Torso",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8TorsoD_1002.jpg": {
+               "Victoria8TorsoD_1002.jpg": {
+                  "assetId": "Victoria8TorsoD_1002.jpg",
+                  "objectName": "Victoria8TorsoD_1002.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8TorsoD_1002.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8TorsoD_1002.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8TorsoSSS_1002.jpg": {
+               "Victoria8TorsoSSS_1002.jpg": {
+                  "assetId": "Victoria8TorsoSSS_1002.jpg",
+                  "objectName": "Victoria8TorsoSSS_1002.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8TorsoSSS_1002.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8TorsoSSS_1002.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8TorsoS_1002.jpg": {
+               "Victoria8TorsoS_1002.jpg": {
+                  "assetId": "Victoria8TorsoS_1002.jpg",
+                  "objectName": "Victoria8TorsoS_1002.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8TorsoS_1002.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8TorsoS_1002.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8TorsoB_1002.jpg": {
+               "Victoria8TorsoB_1002.jpg": {
+                  "assetId": "Victoria8TorsoB_1002.jpg",
+                  "objectName": "Victoria8TorsoB_1002.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8TorsoB_1002.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8TorsoB_1002.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Torso_NM_1002.tif": {
+               "Victoria8_Torso_NM_1002.tif": {
+                  "assetId": "Victoria8_Torso_NM_1002.tif",
+                  "objectName": "Victoria8_Torso_NM_1002.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Torso_NM_1002.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8_Torso_NM_1002.tif"
+               }
+            }
+         }
+      },
+      "Face": {
+         "assetId": "Face",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceD_1001.jpg": {
+               "Victoria8FaceD_1001.jpg-3": {
+                  "assetId": "Victoria8FaceD_1001.jpg-3",
+                  "objectName": "Victoria8FaceD_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceD_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceD_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8Eyebrows.png": {
+               "Victoria8Eyebrows.png-7": {
+                  "assetId": "Victoria8Eyebrows.png-7",
+                  "objectName": "Victoria8Eyebrows.png",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8Eyebrows.png",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8Eyebrows.png"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceSSS_1001.jpg": {
+               "Victoria8FaceSSS_1001.jpg-3": {
+                  "assetId": "Victoria8FaceSSS_1001.jpg-3",
+                  "objectName": "Victoria8FaceSSS_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceSSS_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceSSS_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceS_1001.jpg": {
+               "Victoria8FaceS_1001.jpg-3": {
+                  "assetId": "Victoria8FaceS_1001.jpg-3",
+                  "objectName": "Victoria8FaceS_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceS_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceS_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceB_1001.jpg": {
+               "Victoria8FaceB_1001.jpg-3": {
+                  "assetId": "Victoria8FaceB_1001.jpg-3",
+                  "objectName": "Victoria8FaceB_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceB_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceB_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Face_NM_1001.tif": {
+               "Victoria8_Face_NM_1001.tif-3": {
+                  "assetId": "Victoria8_Face_NM_1001.tif-3",
+                  "objectName": "Victoria8_Face_NM_1001.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Face_NM_1001.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8_Face_NM_1001.tif"
+               }
+            }
+         }
+      },
+      "Lips": {
+         "assetId": "Lips",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceD_1001.jpg": {
+               "Victoria8FaceD_1001.jpg-3": {
+                  "assetId": "Victoria8FaceD_1001.jpg-3",
+                  "objectName": "Victoria8FaceD_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceD_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceD_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8Eyebrows.png": {
+               "Victoria8Eyebrows.png-7": {
+                  "assetId": "Victoria8Eyebrows.png-7",
+                  "objectName": "Victoria8Eyebrows.png",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8Eyebrows.png",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8Eyebrows.png"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceSSS_1001.jpg": {
+               "Victoria8FaceSSS_1001.jpg-3": {
+                  "assetId": "Victoria8FaceSSS_1001.jpg-3",
+                  "objectName": "Victoria8FaceSSS_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceSSS_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceSSS_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceS_1001.jpg": {
+               "Victoria8FaceS_1001.jpg-3": {
+                  "assetId": "Victoria8FaceS_1001.jpg-3",
+                  "objectName": "Victoria8FaceS_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceS_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceS_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceB_1001.jpg": {
+               "Victoria8FaceB_1001.jpg-3": {
+                  "assetId": "Victoria8FaceB_1001.jpg-3",
+                  "objectName": "Victoria8FaceB_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceB_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceB_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Face_NM_1001.tif": {
+               "Victoria8_Face_NM_1001.tif-3": {
+                  "assetId": "Victoria8_Face_NM_1001.tif-3",
+                  "objectName": "Victoria8_Face_NM_1001.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Face_NM_1001.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8_Face_NM_1001.tif"
+               }
+            }
+         }
+      },
+      "Teeth": {
+         "assetId": "Teeth",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8MouthD_1005.jpg": {
+               "Victoria8MouthD_1005.jpg-3": {
+                  "assetId": "Victoria8MouthD_1005.jpg-3",
+                  "objectName": "Victoria8MouthD_1005.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8MouthD_1005.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8MouthD_1005.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8MouthB_1005.jpg": {
+               "Victoria8MouthB_1005.jpg-1": {
+                  "assetId": "Victoria8MouthB_1005.jpg-1",
+                  "objectName": "Victoria8MouthB_1005.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8MouthB_1005.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8MouthB_1005.jpg"
+               }
+            }
+         }
+      },
+      "Ears": {
+         "assetId": "Ears",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceD_1001.jpg": {
+               "Victoria8FaceD_1001.jpg-3": {
+                  "assetId": "Victoria8FaceD_1001.jpg-3",
+                  "objectName": "Victoria8FaceD_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceD_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceD_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8Eyebrows.png": {
+               "Victoria8Eyebrows.png-7": {
+                  "assetId": "Victoria8Eyebrows.png-7",
+                  "objectName": "Victoria8Eyebrows.png",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8Eyebrows.png",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8Eyebrows.png"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceSSS_1001.jpg": {
+               "Victoria8FaceSSS_1001.jpg-3": {
+                  "assetId": "Victoria8FaceSSS_1001.jpg-3",
+                  "objectName": "Victoria8FaceSSS_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceSSS_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceSSS_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceS_1001.jpg": {
+               "Victoria8FaceS_1001.jpg-3": {
+                  "assetId": "Victoria8FaceS_1001.jpg-3",
+                  "objectName": "Victoria8FaceS_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceS_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceS_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceB_1001.jpg": {
+               "Victoria8FaceB_1001.jpg-3": {
+                  "assetId": "Victoria8FaceB_1001.jpg-3",
+                  "objectName": "Victoria8FaceB_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceB_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceB_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Face_NM_1001.tif": {
+               "Victoria8_Face_NM_1001.tif-3": {
+                  "assetId": "Victoria8_Face_NM_1001.tif-3",
+                  "objectName": "Victoria8_Face_NM_1001.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Face_NM_1001.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8_Face_NM_1001.tif"
+               }
+            }
+         }
+      },
+      "Legs": {
+         "assetId": "Legs",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsD_1003.jpg": {
+               "Victoria8LegsD_1003.jpg-1": {
+                  "assetId": "Victoria8LegsD_1003.jpg-1",
+                  "objectName": "Victoria8LegsD_1003.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsD_1003.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8LegsD_1003.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsSSS_1003.jpg": {
+               "Victoria8LegsSSS_1003.jpg-1": {
+                  "assetId": "Victoria8LegsSSS_1003.jpg-1",
+                  "objectName": "Victoria8LegsSSS_1003.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsSSS_1003.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8LegsSSS_1003.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsS_1003.jpg": {
+               "Victoria8LegsS_1003.jpg-1": {
+                  "assetId": "Victoria8LegsS_1003.jpg-1",
+                  "objectName": "Victoria8LegsS_1003.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsS_1003.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8LegsS_1003.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsB_1003.jpg": {
+               "Victoria8LegsB_1003.jpg-1": {
+                  "assetId": "Victoria8LegsB_1003.jpg-1",
+                  "objectName": "Victoria8LegsB_1003.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsB_1003.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8LegsB_1003.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Legs_NM_1003.tif": {
+               "Victoria8_Legs_NM_1003.tif-1": {
+                  "assetId": "Victoria8_Legs_NM_1003.tif-1",
+                  "objectName": "Victoria8_Legs_NM_1003.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Legs_NM_1003.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8_Legs_NM_1003.tif"
+               }
+            }
+         }
+      },
+      "EyeSocket": {
+         "assetId": "EyeSocket",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceD_1001.jpg": {
+               "Victoria8FaceD_1001.jpg-3": {
+                  "assetId": "Victoria8FaceD_1001.jpg-3",
+                  "objectName": "Victoria8FaceD_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceD_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceD_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8Eyebrows.png": {
+               "Victoria8Eyebrows.png-7": {
+                  "assetId": "Victoria8Eyebrows.png-7",
+                  "objectName": "Victoria8Eyebrows.png",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8Eyebrows.png",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8Eyebrows.png"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceSSS_1001.jpg": {
+               "Victoria8FaceSSS_1001.jpg-3": {
+                  "assetId": "Victoria8FaceSSS_1001.jpg-3",
+                  "objectName": "Victoria8FaceSSS_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceSSS_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceSSS_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceS_1001.jpg": {
+               "Victoria8FaceS_1001.jpg-3": {
+                  "assetId": "Victoria8FaceS_1001.jpg-3",
+                  "objectName": "Victoria8FaceS_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceS_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceS_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceB_1001.jpg": {
+               "Victoria8FaceB_1001.jpg-3": {
+                  "assetId": "Victoria8FaceB_1001.jpg-3",
+                  "objectName": "Victoria8FaceB_1001.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8FaceB_1001.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8FaceB_1001.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Face_NM_1001.tif": {
+               "Victoria8_Face_NM_1001.tif-3": {
+                  "assetId": "Victoria8_Face_NM_1001.tif-3",
+                  "objectName": "Victoria8_Face_NM_1001.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Face_NM_1001.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8_Face_NM_1001.tif"
+               }
+            }
+         }
+      },
+      "Mouth": {
+         "assetId": "Mouth",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8MouthD_1005.jpg": {
+               "Victoria8MouthD_1005.jpg-3": {
+                  "assetId": "Victoria8MouthD_1005.jpg-3",
+                  "objectName": "Victoria8MouthD_1005.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8MouthD_1005.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8MouthD_1005.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8MouthB_1005.jpg": {
+               "Victoria8MouthB_1005.jpg-1": {
+                  "assetId": "Victoria8MouthB_1005.jpg-1",
+                  "objectName": "Victoria8MouthB_1005.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8MouthB_1005.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8MouthB_1005.jpg"
+               }
+            }
+         }
+      },
+      "Arms": {
+         "assetId": "Arms",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsD_1004.jpg": {
+               "Victoria8ArmsD_1004.jpg-1": {
+                  "assetId": "Victoria8ArmsD_1004.jpg-1",
+                  "objectName": "Victoria8ArmsD_1004.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsD_1004.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8ArmsD_1004.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsSSS_1004.jpg": {
+               "Victoria8ArmsSSS_1004.jpg-1": {
+                  "assetId": "Victoria8ArmsSSS_1004.jpg-1",
+                  "objectName": "Victoria8ArmsSSS_1004.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsSSS_1004.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8ArmsSSS_1004.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsS_1004.jpg": {
+               "Victoria8ArmsS_1004.jpg-1": {
+                  "assetId": "Victoria8ArmsS_1004.jpg-1",
+                  "objectName": "Victoria8ArmsS_1004.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsS_1004.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8ArmsS_1004.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsB_1004.jpg": {
+               "Victoria8ArmsB_1004.jpg-1": {
+                  "assetId": "Victoria8ArmsB_1004.jpg-1",
+                  "objectName": "Victoria8ArmsB_1004.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsB_1004.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8ArmsB_1004.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Arms_NM_1004.tif": {
+               "Victoria8_Arms_NM_1004.tif-1": {
+                  "assetId": "Victoria8_Arms_NM_1004.tif-1",
+                  "objectName": "Victoria8_Arms_NM_1004.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Arms_NM_1004.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8_Arms_NM_1004.tif"
+               }
+            }
+         }
+      },
+      "Pupils": {
+         "assetId": "Pupils",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesD_1006.jpg": {
+               "Victoria8EyesD_1006.jpg-5": {
+                  "assetId": "Victoria8EyesD_1006.jpg-5",
+                  "objectName": "Victoria8EyesD_1006.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesD_1006.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesD_1006.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg": {
+               "Victoria8EyesB_1006.jpg-4": {
+                  "assetId": "Victoria8EyesB_1006.jpg-4",
+                  "objectName": "Victoria8EyesB_1006.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesB_1006.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif": {
+               "Victoria8EyesN_1006.tif-4": {
+                  "assetId": "Victoria8EyesN_1006.tif-4",
+                  "objectName": "Victoria8EyesN_1006.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesN_1006.tif"
+               }
+            }
+         }
+      },
+      "EyeMoisture": {
+         "assetId": "EyeMoisture",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg": {
+               "Victoria8EyesB_1006.jpg-4": {
+                  "assetId": "Victoria8EyesB_1006.jpg-4",
+                  "objectName": "Victoria8EyesB_1006.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesB_1006.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif": {
+               "Victoria8EyesN_1006.tif-4": {
+                  "assetId": "Victoria8EyesN_1006.tif-4",
+                  "objectName": "Victoria8EyesN_1006.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesN_1006.tif"
+               }
+            }
+         }
+      },
+      "Fingernails": {
+         "assetId": "Fingernails",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsD_1004.jpg": {
+               "Victoria8ArmsD_1004.jpg-1": {
+                  "assetId": "Victoria8ArmsD_1004.jpg-1",
+                  "objectName": "Victoria8ArmsD_1004.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsD_1004.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8ArmsD_1004.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsSSS_1004.jpg": {
+               "Victoria8ArmsSSS_1004.jpg-1": {
+                  "assetId": "Victoria8ArmsSSS_1004.jpg-1",
+                  "objectName": "Victoria8ArmsSSS_1004.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsSSS_1004.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8ArmsSSS_1004.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsS_1004.jpg": {
+               "Victoria8ArmsS_1004.jpg-1": {
+                  "assetId": "Victoria8ArmsS_1004.jpg-1",
+                  "objectName": "Victoria8ArmsS_1004.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsS_1004.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8ArmsS_1004.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsB_1004.jpg": {
+               "Victoria8ArmsB_1004.jpg-1": {
+                  "assetId": "Victoria8ArmsB_1004.jpg-1",
+                  "objectName": "Victoria8ArmsB_1004.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8ArmsB_1004.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8ArmsB_1004.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Arms_NM_1004.tif": {
+               "Victoria8_Arms_NM_1004.tif-1": {
+                  "assetId": "Victoria8_Arms_NM_1004.tif-1",
+                  "objectName": "Victoria8_Arms_NM_1004.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Arms_NM_1004.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8_Arms_NM_1004.tif"
+               }
+            }
+         }
+      },
+      "Cornea": {
+         "assetId": "Cornea",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg": {
+               "Victoria8EyesB_1006.jpg-4": {
+                  "assetId": "Victoria8EyesB_1006.jpg-4",
+                  "objectName": "Victoria8EyesB_1006.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesB_1006.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif": {
+               "Victoria8EyesN_1006.tif-4": {
+                  "assetId": "Victoria8EyesN_1006.tif-4",
+                  "objectName": "Victoria8EyesN_1006.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesN_1006.tif"
+               }
+            }
+         }
+      },
+      "Irises": {
+         "assetId": "Irises",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesD_1006.jpg": {
+               "Victoria8EyesD_1006.jpg-5": {
+                  "assetId": "Victoria8EyesD_1006.jpg-5",
+                  "objectName": "Victoria8EyesD_1006.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesD_1006.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesD_1006.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg": {
+               "Victoria8EyesB_1006.jpg-4": {
+                  "assetId": "Victoria8EyesB_1006.jpg-4",
+                  "objectName": "Victoria8EyesB_1006.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesB_1006.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif": {
+               "Victoria8EyesN_1006.tif-4": {
+                  "assetId": "Victoria8EyesN_1006.tif-4",
+                  "objectName": "Victoria8EyesN_1006.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesN_1006.tif"
+               }
+            }
+         }
+      },
+      "Sclera": {
+         "assetId": "Sclera",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesD_1006.jpg": {
+               "Victoria8EyesD_1006.jpg-5": {
+                  "assetId": "Victoria8EyesD_1006.jpg-5",
+                  "objectName": "Victoria8EyesD_1006.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesD_1006.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesD_1006.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg": {
+               "Victoria8EyesB_1006.jpg-4": {
+                  "assetId": "Victoria8EyesB_1006.jpg-4",
+                  "objectName": "Victoria8EyesB_1006.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesB_1006.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesB_1006.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif": {
+               "Victoria8EyesN_1006.tif-4": {
+                  "assetId": "Victoria8EyesN_1006.tif-4",
+                  "objectName": "Victoria8EyesN_1006.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8EyesN_1006.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8EyesN_1006.tif"
+               }
+            }
+         }
+      },
+      "Toenails": {
+         "assetId": "Toenails",
+         "fileInfos": {
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsD_1003.jpg": {
+               "Victoria8LegsD_1003.jpg-1": {
+                  "assetId": "Victoria8LegsD_1003.jpg-1",
+                  "objectName": "Victoria8LegsD_1003.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsD_1003.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8LegsD_1003.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsSSS_1003.jpg": {
+               "Victoria8LegsSSS_1003.jpg-1": {
+                  "assetId": "Victoria8LegsSSS_1003.jpg-1",
+                  "objectName": "Victoria8LegsSSS_1003.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsSSS_1003.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8LegsSSS_1003.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsS_1003.jpg": {
+               "Victoria8LegsS_1003.jpg-1": {
+                  "assetId": "Victoria8LegsS_1003.jpg-1",
+                  "objectName": "Victoria8LegsS_1003.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsS_1003.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8LegsS_1003.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsB_1003.jpg": {
+               "Victoria8LegsB_1003.jpg-1": {
+                  "assetId": "Victoria8LegsB_1003.jpg-1",
+                  "objectName": "Victoria8LegsB_1003.jpg",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8LegsB_1003.jpg",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8LegsB_1003.jpg"
+               }
+            },
+            "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Legs_NM_1003.tif": {
+               "Victoria8_Legs_NM_1003.tif-1": {
+                  "assetId": "Victoria8_Legs_NM_1003.tif-1",
+                  "objectName": "Victoria8_Legs_NM_1003.tif",
+                  "sourceFileName": "/Users/emrecancubukcu/Documents/DAZ 3D/Studio/My Library/Runtime/Textures/DAZ/Characters/Genesis8/Victoria8/Victoria8_Legs_NM_1003.tif",
+                  "targetFileName": "/Users/emrecancubukcu/MetaDemo/Assets/Victoria8_Legs_NM_1003.tif"
+               }
+            }
+         }
+      }
+   }
+}
