@@ -9,11 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/Brick Project Studio/Apartment Kit/Scenes/Scene_01.unity
-    guid: 5192fb7ee619ba3438fa03702e516cd4
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/TirgamesAssets/PBRRestroom/Scenes/PBRRestroomDemo.unity
     guid: 19e60e0ea917881438b20b72012fe911
+  - enabled: 1
+    path: Assets/MainLevel.unity
+    guid: ab38ec2566b19dd469f3c57e3b1f1626
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
