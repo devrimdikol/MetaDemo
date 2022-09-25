@@ -18,6 +18,8 @@ public class OcculusController : MonoBehaviour
     public GameObject MaleLeftEye;
     public GameObject MaleRightEye;
 
+    public GameObject EyeMid;
+
     public GameObject OcculusCamera;
 
     private Vector3 cameraOffset = Vector3.zero;
@@ -50,9 +52,9 @@ public class OcculusController : MonoBehaviour
         MaleAnimator.SetFloat("Speed", Speed);
         FemaleAnimator.SetFloat("Speed", Speed);
 
-        Vector3 eyeMidPosition = 0.5f * (MaleLeftEye.transform.position + MaleRightEye.transform.position);
+        //Vector3 eyeMidPosition = 0.5f * (MaleLeftEye.transform.position + MaleRightEye.transform.position);
 
-        OcculusCamera.transform.position = eyeMidPosition;// + cameraOffset;
+        OcculusCamera.transform.position = EyeMid.transform.position;// + cameraOffset;
 
     }
 }
