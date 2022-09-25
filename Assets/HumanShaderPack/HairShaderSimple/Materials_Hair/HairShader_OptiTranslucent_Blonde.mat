@@ -2,13 +2,15 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: HairShader_OptiTranslucent_Blonde
-  m_Shader: {fileID: 4800000, guid: 657852846110fc54e8086c5d16d68761, type: 3}
-  m_ShaderKeywords: 
+  m_Shader: {fileID: 4800000, guid: af85a420cdfb27042bf865be64bc04b4, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -138,6 +140,7 @@ Material:
         m_Texture: {fileID: 2800000, guid: 54b49d85c7ca61849a5f027999939bb9, type: 3}
         m_Scale: {x: 50, y: 0.1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _AO_boost: 1
     - _Base_Gloss: 0.5555561
@@ -154,7 +157,7 @@ Material:
     - _Dirt_Gloss: 0.1
     - _Dirt_Top: 0
     - _DstBlend: 0
-    - _FastSlow: 1
+    - _FastSlow: 76
     - _Fresnel_Effect: 0
     - _Gloss: 0.78
     - _GlossMapScale: 1
@@ -180,18 +183,18 @@ Material:
     - _ShiftNormals: 0
     - _Shine_Bend: 0.5
     - _SmoothnessTextureChannel: 0
-    - _SpecColorInheritance: 0.52
+    - _SpecColorInheritance: 2.02
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _TipAmount: 0
     - _TipHighlighter: -0.38
     - _TipTransmissionBoost: 1.25
-    - _Translucency: 0.15
+    - _Translucency: 0.544
     - _TransmissionAmount: 0.111
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColorGloss: {r: 0.17647058, g: 0.115904815, b: 0.083044976, a: 0.534}
+    - _BaseColorGloss: {r: 0.17647055, g: 0.115904786, b: 0.08304495, a: 0.68235296}
     - _Base_Color: {r: 33333, g: 1, b: 1, a: 1}
     - _Base_SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -204,7 +207,7 @@ Material:
     - _Grad1_Color: {r: 0.5735294, g: 0.46650162, b: 0.23615916, a: 1}
     - _Grad2_Color: {r: 0.44852942, g: 0.29841307, b: 0.052768163, a: 1}
     - _HairCol: {r: 0.125, g: 0.11121324, b: 0.11121324, a: 1}
-    - _Hair_ColorGloss: {r: 0.66176474, g: 0.59411174, b: 0.31141868, a: 0.285}
+    - _Hair_ColorGloss: {r: 0.6617647, g: 0.59411174, b: 0.31141865, a: 0}
     - _LightDirectionBend: {r: 0, g: 0.2965517, b: 1, a: 1}
     - _Mask1_color: {r: 1, g: 0.007352948, b: 0.007352948, a: 1}
     - _Mask2_color: {r: 0.05082181, g: 0.6911765, b: 0.1082329, a: 1}
@@ -215,7 +218,8 @@ Material:
     - _ShineColor: {r: 0.27205884, g: 0, b: 0, a: 0.784}
     - _ShineColorExtraGloss: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _ShineColor_ToneBoost: {r: 0.14705884, g: 0.07749672, b: 0.032439448, a: 0.972}
-    - _ShineColor_ToneBost: {r: 0.11764705, g: 0.10857892, b: 0.100346014, a: 0.556}
+    - _ShineColor_ToneBost: {r: 0.4811321, g: 0.29915452, b: 0.11574403, a: 1}
     - _SpecColor: {r: 0.18382353, g: 0.15339758, b: 0.1148897, a: 1}
     - _TipColor_Mix: {r: 0.33823532, g: 0.21419284, b: 0.057201557, a: 0.569}
-    - _Tip_Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Tip_Color: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
+  m_BuildTextureStacks: []
