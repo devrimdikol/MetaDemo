@@ -13,7 +13,6 @@ namespace Daz3D
 		public static string ScrubKey(string src)
 		{
 			src = src.Replace(" ", "_");
-			src = src.Replace(":", "_");
 			src = nameScrub.Replace(src, "");
 			return src;
 		}

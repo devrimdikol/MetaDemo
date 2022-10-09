@@ -1,0 +1,591 @@
+{
+   "object": "Genesis8Female",
+   "shape": "Genesis8Female",
+   "numberOfMaterials": 16,
+   "materials": {
+      "Torso": {
+         "assetId": "Torso",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2TorsoMapD_1002.jpg": {
+               "Tara2TorsoMapD_1002.jpg-2": {
+                  "assetId": "Tara2TorsoMapD_1002.jpg-2",
+                  "objectName": "Tara2TorsoMapD_1002.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2TorsoMapD_1002.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2TorsoMapD_1002.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2TorsoMapSSS_1002.jpg": {
+               "Tara2TorsoMapSSS_1002.jpg-2": {
+                  "assetId": "Tara2TorsoMapSSS_1002.jpg-2",
+                  "objectName": "Tara2TorsoMapSSS_1002.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2TorsoMapSSS_1002.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2TorsoMapSSS_1002.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2TorsoMapS_1002.jpg": {
+               "Tara2TorsoMapS_1002.jpg-2": {
+                  "assetId": "Tara2TorsoMapS_1002.jpg-2",
+                  "objectName": "Tara2TorsoMapS_1002.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2TorsoMapS_1002.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2TorsoMapS_1002.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2TorsoMapB_1002.jpg": {
+               "Tara2TorsoMapB_1002.jpg-2": {
+                  "assetId": "Tara2TorsoMapB_1002.jpg-2",
+                  "objectName": "Tara2TorsoMapB_1002.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2TorsoMapB_1002.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2TorsoMapB_1002.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Torso_NM_1002.png": {
+               "Tara2Torso_NM_1002.png-2": {
+                  "assetId": "Tara2Torso_NM_1002.png-2",
+                  "objectName": "Tara2Torso_NM_1002.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Torso_NM_1002.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Torso_NM_1002.png"
+               }
+            }
+         }
+      },
+      "Face": {
+         "assetId": "Face",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapD01_1001.jpg": {
+               "Tara2FaceMapD01_1001.jpg-1": {
+                  "assetId": "Tara2FaceMapD01_1001.jpg-1",
+                  "objectName": "Tara2FaceMapD01_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapD01_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapD01_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/02ETara2Brows_1001.png": {
+               "02ETara2Brows_1001.png": {
+                  "assetId": "02ETara2Brows_1001.png",
+                  "objectName": "02ETara2Brows_1001.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/02ETara2Brows_1001.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/02ETara2Brows_1001.png"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapSSS01_1001.jpg": {
+               "Tara2FaceMapSSS01_1001.jpg": {
+                  "assetId": "Tara2FaceMapSSS01_1001.jpg",
+                  "objectName": "Tara2FaceMapSSS01_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapSSS01_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapSSS01_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapS_1001.jpg": {
+               "Tara2FaceMapS_1001.jpg-3": {
+                  "assetId": "Tara2FaceMapS_1001.jpg-3",
+                  "objectName": "Tara2FaceMapS_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapS_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapS_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapB_1001.jpg": {
+               "Tara2FaceMapB_1001.jpg-3": {
+                  "assetId": "Tara2FaceMapB_1001.jpg-3",
+                  "objectName": "Tara2FaceMapB_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapB_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapB_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Face_NM_1001.png": {
+               "Tara2Face_NM_1001.png-3": {
+                  "assetId": "Tara2Face_NM_1001.png-3",
+                  "objectName": "Tara2Face_NM_1001.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Face_NM_1001.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Face_NM_1001.png"
+               }
+            }
+         }
+      },
+      "Lips": {
+         "assetId": "Lips",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapD_1001.jpg": {
+               "Tara2FaceMapD_1001.jpg-2": {
+                  "assetId": "Tara2FaceMapD_1001.jpg-2",
+                  "objectName": "Tara2FaceMapD_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapD_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapD_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapSSS_1001.jpg": {
+               "Tara2FaceMapSSS_1001.jpg-2": {
+                  "assetId": "Tara2FaceMapSSS_1001.jpg-2",
+                  "objectName": "Tara2FaceMapSSS_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapSSS_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapSSS_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapS_1001.jpg": {
+               "Tara2FaceMapS_1001.jpg-3": {
+                  "assetId": "Tara2FaceMapS_1001.jpg-3",
+                  "objectName": "Tara2FaceMapS_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapS_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapS_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapB_1001.jpg": {
+               "Tara2FaceMapB_1001.jpg-3": {
+                  "assetId": "Tara2FaceMapB_1001.jpg-3",
+                  "objectName": "Tara2FaceMapB_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapB_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapB_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Face_NM_1001.png": {
+               "Tara2Face_NM_1001.png-3": {
+                  "assetId": "Tara2Face_NM_1001.png-3",
+                  "objectName": "Tara2Face_NM_1001.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Face_NM_1001.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Face_NM_1001.png"
+               }
+            }
+         }
+      },
+      "Teeth": {
+         "assetId": "Teeth",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2MouthMapD_1005.jpg": {
+               "Tara2MouthMapD_1005.jpg-2": {
+                  "assetId": "Tara2MouthMapD_1005.jpg-2",
+                  "objectName": "Tara2MouthMapD_1005.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2MouthMapD_1005.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2MouthMapD_1005.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2MouthMapB_1005.jpg": {
+               "Tara2MouthMapB_1005.jpg-2": {
+                  "assetId": "Tara2MouthMapB_1005.jpg-2",
+                  "objectName": "Tara2MouthMapB_1005.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2MouthMapB_1005.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2MouthMapB_1005.jpg"
+               }
+            }
+         }
+      },
+      "Ears": {
+         "assetId": "Ears",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapD_1001.jpg": {
+               "Tara2FaceMapD_1001.jpg-2": {
+                  "assetId": "Tara2FaceMapD_1001.jpg-2",
+                  "objectName": "Tara2FaceMapD_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapD_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapD_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapSSS_1001.jpg": {
+               "Tara2FaceMapSSS_1001.jpg-2": {
+                  "assetId": "Tara2FaceMapSSS_1001.jpg-2",
+                  "objectName": "Tara2FaceMapSSS_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapSSS_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapSSS_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapS_1001.jpg": {
+               "Tara2FaceMapS_1001.jpg-3": {
+                  "assetId": "Tara2FaceMapS_1001.jpg-3",
+                  "objectName": "Tara2FaceMapS_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapS_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapS_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapB_1001.jpg": {
+               "Tara2FaceMapB_1001.jpg-3": {
+                  "assetId": "Tara2FaceMapB_1001.jpg-3",
+                  "objectName": "Tara2FaceMapB_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapB_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapB_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Face_NM_1001.png": {
+               "Tara2Face_NM_1001.png-3": {
+                  "assetId": "Tara2Face_NM_1001.png-3",
+                  "objectName": "Tara2Face_NM_1001.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Face_NM_1001.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Face_NM_1001.png"
+               }
+            }
+         }
+      },
+      "Legs": {
+         "assetId": "Legs",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapD_1003.jpg": {
+               "Tara2LegsMapD_1003.jpg-1": {
+                  "assetId": "Tara2LegsMapD_1003.jpg-1",
+                  "objectName": "Tara2LegsMapD_1003.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapD_1003.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2LegsMapD_1003.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapSSS_1003.jpg": {
+               "Tara2LegsMapSSS_1003.jpg-1": {
+                  "assetId": "Tara2LegsMapSSS_1003.jpg-1",
+                  "objectName": "Tara2LegsMapSSS_1003.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapSSS_1003.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2LegsMapSSS_1003.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapS_1003.jpg": {
+               "Tara2LegsMapS_1003.jpg-1": {
+                  "assetId": "Tara2LegsMapS_1003.jpg-1",
+                  "objectName": "Tara2LegsMapS_1003.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapS_1003.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2LegsMapS_1003.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapB_1003.jpg": {
+               "Tara2LegsMapB_1003.jpg-1": {
+                  "assetId": "Tara2LegsMapB_1003.jpg-1",
+                  "objectName": "Tara2LegsMapB_1003.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapB_1003.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2LegsMapB_1003.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Legs_NM_1003.png": {
+               "Tara2Legs_NM_1003.png-1": {
+                  "assetId": "Tara2Legs_NM_1003.png-1",
+                  "objectName": "Tara2Legs_NM_1003.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Legs_NM_1003.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Legs_NM_1003.png"
+               }
+            }
+         }
+      },
+      "EyeSocket": {
+         "assetId": "EyeSocket",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapD_1001.jpg": {
+               "Tara2FaceMapD_1001.jpg-2": {
+                  "assetId": "Tara2FaceMapD_1001.jpg-2",
+                  "objectName": "Tara2FaceMapD_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapD_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapD_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapSSS_1001.jpg": {
+               "Tara2FaceMapSSS_1001.jpg-2": {
+                  "assetId": "Tara2FaceMapSSS_1001.jpg-2",
+                  "objectName": "Tara2FaceMapSSS_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapSSS_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapSSS_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapS_1001.jpg": {
+               "Tara2FaceMapS_1001.jpg-3": {
+                  "assetId": "Tara2FaceMapS_1001.jpg-3",
+                  "objectName": "Tara2FaceMapS_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapS_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapS_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapB_1001.jpg": {
+               "Tara2FaceMapB_1001.jpg-3": {
+                  "assetId": "Tara2FaceMapB_1001.jpg-3",
+                  "objectName": "Tara2FaceMapB_1001.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2FaceMapB_1001.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2FaceMapB_1001.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Face_NM_1001.png": {
+               "Tara2Face_NM_1001.png-3": {
+                  "assetId": "Tara2Face_NM_1001.png-3",
+                  "objectName": "Tara2Face_NM_1001.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Face_NM_1001.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Face_NM_1001.png"
+               }
+            }
+         }
+      },
+      "Mouth": {
+         "assetId": "Mouth",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2MouthMapD_1005.jpg": {
+               "Tara2MouthMapD_1005.jpg-2": {
+                  "assetId": "Tara2MouthMapD_1005.jpg-2",
+                  "objectName": "Tara2MouthMapD_1005.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2MouthMapD_1005.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2MouthMapD_1005.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2MouthMapB_1005.jpg": {
+               "Tara2MouthMapB_1005.jpg-2": {
+                  "assetId": "Tara2MouthMapB_1005.jpg-2",
+                  "objectName": "Tara2MouthMapB_1005.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2MouthMapB_1005.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2MouthMapB_1005.jpg"
+               }
+            }
+         }
+      },
+      "Arms": {
+         "assetId": "Arms",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapD_1004.jpg": {
+               "Tara2ArmsMapD_1004.jpg-1": {
+                  "assetId": "Tara2ArmsMapD_1004.jpg-1",
+                  "objectName": "Tara2ArmsMapD_1004.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapD_1004.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2ArmsMapD_1004.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapSSS_1004.jpg": {
+               "Tara2ArmsMapSSS_1004.jpg-1": {
+                  "assetId": "Tara2ArmsMapSSS_1004.jpg-1",
+                  "objectName": "Tara2ArmsMapSSS_1004.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapSSS_1004.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2ArmsMapSSS_1004.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapS_1004.jpg": {
+               "Tara2ArmsMapS_1004.jpg-1": {
+                  "assetId": "Tara2ArmsMapS_1004.jpg-1",
+                  "objectName": "Tara2ArmsMapS_1004.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapS_1004.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2ArmsMapS_1004.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapB_1004.jpg": {
+               "Tara2ArmsMapB_1004.jpg-1": {
+                  "assetId": "Tara2ArmsMapB_1004.jpg-1",
+                  "objectName": "Tara2ArmsMapB_1004.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapB_1004.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2ArmsMapB_1004.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Arms_NM_1004.png": {
+               "Tara2Arms_NM_1004.png-1": {
+                  "assetId": "Tara2Arms_NM_1004.png-1",
+                  "objectName": "Tara2Arms_NM_1004.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Arms_NM_1004.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Arms_NM_1004.png"
+               }
+            }
+         }
+      },
+      "Pupils": {
+         "assetId": "Pupils",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapD01_1007.jpg": {
+               "Tara2EyeMapD01_1007.jpg-5": {
+                  "assetId": "Tara2EyeMapD01_1007.jpg-5",
+                  "objectName": "Tara2EyeMapD01_1007.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapD01_1007.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2EyeMapD01_1007.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg": {
+               "Tara2EyeMapB_1007.jpg-4": {
+                  "assetId": "Tara2EyeMapB_1007.jpg-4",
+                  "objectName": "Tara2EyeMapB_1007.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2EyeMapB_1007.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png": {
+               "Tara2Eye_NM_1007.png-4": {
+                  "assetId": "Tara2Eye_NM_1007.png-4",
+                  "objectName": "Tara2Eye_NM_1007.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Eye_NM_1007.png"
+               }
+            }
+         }
+      },
+      "EyeMoisture": {
+         "assetId": "EyeMoisture",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg": {
+               "Tara2EyeMapB_1007.jpg-4": {
+                  "assetId": "Tara2EyeMapB_1007.jpg-4",
+                  "objectName": "Tara2EyeMapB_1007.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2EyeMapB_1007.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png": {
+               "Tara2Eye_NM_1007.png-4": {
+                  "assetId": "Tara2Eye_NM_1007.png-4",
+                  "objectName": "Tara2Eye_NM_1007.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Eye_NM_1007.png"
+               }
+            }
+         }
+      },
+      "Fingernails": {
+         "assetId": "Fingernails",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapD_1004.jpg": {
+               "Tara2ArmsMapD_1004.jpg-1": {
+                  "assetId": "Tara2ArmsMapD_1004.jpg-1",
+                  "objectName": "Tara2ArmsMapD_1004.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapD_1004.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2ArmsMapD_1004.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapSSS_1004.jpg": {
+               "Tara2ArmsMapSSS_1004.jpg-1": {
+                  "assetId": "Tara2ArmsMapSSS_1004.jpg-1",
+                  "objectName": "Tara2ArmsMapSSS_1004.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapSSS_1004.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2ArmsMapSSS_1004.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapS_1004.jpg": {
+               "Tara2ArmsMapS_1004.jpg-1": {
+                  "assetId": "Tara2ArmsMapS_1004.jpg-1",
+                  "objectName": "Tara2ArmsMapS_1004.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapS_1004.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2ArmsMapS_1004.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapB_1004.jpg": {
+               "Tara2ArmsMapB_1004.jpg-1": {
+                  "assetId": "Tara2ArmsMapB_1004.jpg-1",
+                  "objectName": "Tara2ArmsMapB_1004.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2ArmsMapB_1004.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2ArmsMapB_1004.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Arms_NM_1004.png": {
+               "Tara2Arms_NM_1004.png-1": {
+                  "assetId": "Tara2Arms_NM_1004.png-1",
+                  "objectName": "Tara2Arms_NM_1004.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Arms_NM_1004.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Arms_NM_1004.png"
+               }
+            }
+         }
+      },
+      "Cornea": {
+         "assetId": "Cornea",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg": {
+               "Tara2EyeMapB_1007.jpg-4": {
+                  "assetId": "Tara2EyeMapB_1007.jpg-4",
+                  "objectName": "Tara2EyeMapB_1007.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2EyeMapB_1007.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png": {
+               "Tara2Eye_NM_1007.png-4": {
+                  "assetId": "Tara2Eye_NM_1007.png-4",
+                  "objectName": "Tara2Eye_NM_1007.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Eye_NM_1007.png"
+               }
+            }
+         }
+      },
+      "Irises": {
+         "assetId": "Irises",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapD01_1007.jpg": {
+               "Tara2EyeMapD01_1007.jpg-5": {
+                  "assetId": "Tara2EyeMapD01_1007.jpg-5",
+                  "objectName": "Tara2EyeMapD01_1007.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapD01_1007.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2EyeMapD01_1007.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg": {
+               "Tara2EyeMapB_1007.jpg-4": {
+                  "assetId": "Tara2EyeMapB_1007.jpg-4",
+                  "objectName": "Tara2EyeMapB_1007.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2EyeMapB_1007.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png": {
+               "Tara2Eye_NM_1007.png-4": {
+                  "assetId": "Tara2Eye_NM_1007.png-4",
+                  "objectName": "Tara2Eye_NM_1007.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Eye_NM_1007.png"
+               }
+            }
+         }
+      },
+      "Sclera": {
+         "assetId": "Sclera",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapD01_1007.jpg": {
+               "Tara2EyeMapD01_1007.jpg-5": {
+                  "assetId": "Tara2EyeMapD01_1007.jpg-5",
+                  "objectName": "Tara2EyeMapD01_1007.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapD01_1007.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2EyeMapD01_1007.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg": {
+               "Tara2EyeMapB_1007.jpg-4": {
+                  "assetId": "Tara2EyeMapB_1007.jpg-4",
+                  "objectName": "Tara2EyeMapB_1007.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2EyeMapB_1007.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2EyeMapB_1007.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png": {
+               "Tara2Eye_NM_1007.png-4": {
+                  "assetId": "Tara2Eye_NM_1007.png-4",
+                  "objectName": "Tara2Eye_NM_1007.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Eye_NM_1007.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Eye_NM_1007.png"
+               }
+            }
+         }
+      },
+      "Toenails": {
+         "assetId": "Toenails",
+         "fileInfos": {
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapD_1003.jpg": {
+               "Tara2LegsMapD_1003.jpg-1": {
+                  "assetId": "Tara2LegsMapD_1003.jpg-1",
+                  "objectName": "Tara2LegsMapD_1003.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapD_1003.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2LegsMapD_1003.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapSSS_1003.jpg": {
+               "Tara2LegsMapSSS_1003.jpg-1": {
+                  "assetId": "Tara2LegsMapSSS_1003.jpg-1",
+                  "objectName": "Tara2LegsMapSSS_1003.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapSSS_1003.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2LegsMapSSS_1003.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapS_1003.jpg": {
+               "Tara2LegsMapS_1003.jpg-1": {
+                  "assetId": "Tara2LegsMapS_1003.jpg-1",
+                  "objectName": "Tara2LegsMapS_1003.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapS_1003.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2LegsMapS_1003.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapB_1003.jpg": {
+               "Tara2LegsMapB_1003.jpg-1": {
+                  "assetId": "Tara2LegsMapB_1003.jpg-1",
+                  "objectName": "Tara2LegsMapB_1003.jpg",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2LegsMapB_1003.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2LegsMapB_1003.jpg"
+               }
+            },
+            "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Legs_NM_1003.png": {
+               "Tara2Legs_NM_1003.png-1": {
+                  "assetId": "Tara2Legs_NM_1003.png-1",
+                  "objectName": "Tara2Legs_NM_1003.png",
+                  "sourceFileName": "D:/DAZ 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/KayleyssAD/Characters/Genesis8Female/Tara2/Tara2Legs_NM_1003.png",
+                  "targetFileName": "F:/MetaDemo/Assets/New folder/Tara2Legs_NM_1003.png"
+               }
+            }
+         }
+      }
+   }
+}

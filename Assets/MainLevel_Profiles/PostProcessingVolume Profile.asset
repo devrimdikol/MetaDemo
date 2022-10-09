@@ -25,7 +25,7 @@ MonoBehaviour:
     defaultState: 1
   tonemapper:
     overrideState: 1
-    value: 2
+    value: 1
   toneCurveToeStrength:
     overrideState: 0
     value: 0
@@ -53,7 +53,7 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: 6
+    value: 0
   tint:
     overrideState: 1
     value: 0
@@ -65,13 +65,13 @@ MonoBehaviour:
     value: 0
   saturation:
     overrideState: 1
-    value: 13
+    value: 0
   brightness:
     overrideState: 0
     value: 0
   postExposure:
     overrideState: 1
-    value: 0
+    value: 0.88
   contrast:
     overrideState: 0
     value: 0
@@ -1379,7 +1379,7 @@ MonoBehaviour:
     value: 0
   intensity:
     overrideState: 1
-    value: 0.82
+    value: 1.54
   color:
     overrideState: 0
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1403,9 +1403,9 @@ MonoBehaviour:
     value: 0
   radius:
     overrideState: 1
-    value: 0.1
+    value: 0.02
   quality:
-    overrideState: 0
+    overrideState: 1
     value: 2
 --- !u!114 &11400000
 MonoBehaviour:
@@ -1423,3 +1423,41 @@ MonoBehaviour:
   - {fileID: -4554818105386881011}
   - {fileID: -5866125002061347484}
   - {fileID: -5143479169150284653}
+  - {fileID: 3259825219298326407}
+--- !u!114 &3259825219298326407
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
+  m_Name: ScreenSpaceReflections
+  m_EditorClassIdentifier: 
+  active: 0
+  enabled:
+    overrideState: 1
+    value: 1
+  preset:
+    overrideState: 1
+    value: 3
+  maximumIterationCount:
+    overrideState: 0
+    value: 16
+  resolution:
+    overrideState: 0
+    value: 0
+  thickness:
+    overrideState: 0
+    value: 8
+  maximumMarchDistance:
+    overrideState: 1
+    value: 100
+  distanceFade:
+    overrideState: 0
+    value: 0.5
+  vignette:
+    overrideState: 0
+    value: 0.5

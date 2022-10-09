@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f9848c1ee63161a4fa2dd85c63135513
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalMap: {fileID: 2800000, guid: 49d56c07f751a7943850c72eb004d29d, type: 3}
+  - _ExtraCuttingMask: {fileID: 2800000, guid: 6f801cb597fd08f4ca3336f392517f0a, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

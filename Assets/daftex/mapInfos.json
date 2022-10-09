@@ -1,0 +1,470 @@
+{
+   "object": "Genesis8Female",
+   "shape": "Genesis8Female",
+   "numberOfMaterials": 16,
+   "materials": {
+      "Torso": {
+         "assetId": "Torso",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Torso.jpg": {
+               "Addy-Daphne-Torso.jpg": {
+                  "assetId": "Addy-Daphne-Torso.jpg",
+                  "objectName": "Addy-Daphne-Torso.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Torso.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Torso.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Torso-SSS.jpg": {
+               "Addy-Daphne-Torso-SSS.jpg": {
+                  "assetId": "Addy-Daphne-Torso-SSS.jpg",
+                  "objectName": "Addy-Daphne-Torso-SSS.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Torso-SSS.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Torso-SSS.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Torso-S.jpg": {
+               "Addy-Daphne-Torso-S.jpg-2": {
+                  "assetId": "Addy-Daphne-Torso-S.jpg-2",
+                  "objectName": "Addy-Daphne-Torso-S.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Torso-S.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Torso-S.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Torso-B.jpg": {
+               "Addy-Daphne-Torso-B.jpg-1": {
+                  "assetId": "Addy-Daphne-Torso-B.jpg-1",
+                  "objectName": "Addy-Daphne-Torso-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Torso-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Torso-B.jpg"
+               }
+            }
+         }
+      },
+      "Face": {
+         "assetId": "Face",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face.jpg": {
+               "Addy-Daphne-Face.jpg-3": {
+                  "assetId": "Addy-Daphne-Face.jpg-3",
+                  "objectName": "Addy-Daphne-Face.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-SSS.jpg": {
+               "Addy-Daphne-Face-SSS.jpg-2": {
+                  "assetId": "Addy-Daphne-Face-SSS.jpg-2",
+                  "objectName": "Addy-Daphne-Face-SSS.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-SSS.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-SSS.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-S.jpg": {
+               "Addy-Daphne-Face-S.jpg-10": {
+                  "assetId": "Addy-Daphne-Face-S.jpg-10",
+                  "objectName": "Addy-Daphne-Face-S.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-S.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-S.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-B.jpg": {
+               "Addy-Daphne-Face-B.jpg-6": {
+                  "assetId": "Addy-Daphne-Face-B.jpg-6",
+                  "objectName": "Addy-Daphne-Face-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-B.jpg"
+               }
+            }
+         }
+      },
+      "Lips": {
+         "assetId": "Lips",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face.jpg": {
+               "Addy-Daphne-Face.jpg-3": {
+                  "assetId": "Addy-Daphne-Face.jpg-3",
+                  "objectName": "Addy-Daphne-Face.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-SSS.jpg": {
+               "Addy-Daphne-Face-SSS.jpg-2": {
+                  "assetId": "Addy-Daphne-Face-SSS.jpg-2",
+                  "objectName": "Addy-Daphne-Face-SSS.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-SSS.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-SSS.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-S.jpg": {
+               "Addy-Daphne-Face-S.jpg-10": {
+                  "assetId": "Addy-Daphne-Face-S.jpg-10",
+                  "objectName": "Addy-Daphne-Face-S.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-S.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-S.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-B.jpg": {
+               "Addy-Daphne-Face-B.jpg-6": {
+                  "assetId": "Addy-Daphne-Face-B.jpg-6",
+                  "objectName": "Addy-Daphne-Face-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-B.jpg"
+               }
+            }
+         }
+      },
+      "Teeth": {
+         "assetId": "Teeth",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Mouth.jpg": {
+               "Addy-Daphne-Mouth.jpg-3": {
+                  "assetId": "Addy-Daphne-Mouth.jpg-3",
+                  "objectName": "Addy-Daphne-Mouth.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Mouth.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Mouth.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Mouth-B.jpg": {
+               "Addy-Daphne-Mouth-B.jpg-1": {
+                  "assetId": "Addy-Daphne-Mouth-B.jpg-1",
+                  "objectName": "Addy-Daphne-Mouth-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Mouth-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Mouth-B.jpg"
+               }
+            }
+         }
+      },
+      "Ears": {
+         "assetId": "Ears",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face.jpg": {
+               "Addy-Daphne-Face.jpg-3": {
+                  "assetId": "Addy-Daphne-Face.jpg-3",
+                  "objectName": "Addy-Daphne-Face.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-SSS.jpg": {
+               "Addy-Daphne-Face-SSS.jpg-2": {
+                  "assetId": "Addy-Daphne-Face-SSS.jpg-2",
+                  "objectName": "Addy-Daphne-Face-SSS.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-SSS.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-SSS.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-S.jpg": {
+               "Addy-Daphne-Face-S.jpg-10": {
+                  "assetId": "Addy-Daphne-Face-S.jpg-10",
+                  "objectName": "Addy-Daphne-Face-S.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-S.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-S.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-B.jpg": {
+               "Addy-Daphne-Face-B.jpg-6": {
+                  "assetId": "Addy-Daphne-Face-B.jpg-6",
+                  "objectName": "Addy-Daphne-Face-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-B.jpg"
+               }
+            }
+         }
+      },
+      "Legs": {
+         "assetId": "Legs",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs.jpg": {
+               "Addy-Daphne-Legs.jpg-1": {
+                  "assetId": "Addy-Daphne-Legs.jpg-1",
+                  "objectName": "Addy-Daphne-Legs.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Legs.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-SSS.jpg": {
+               "Addy-Daphne-Legs-SSS.jpg-1": {
+                  "assetId": "Addy-Daphne-Legs-SSS.jpg-1",
+                  "objectName": "Addy-Daphne-Legs-SSS.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-SSS.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Legs-SSS.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-S.jpg": {
+               "Addy-Daphne-Legs-S.jpg-3": {
+                  "assetId": "Addy-Daphne-Legs-S.jpg-3",
+                  "objectName": "Addy-Daphne-Legs-S.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-S.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Legs-S.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-B.jpg": {
+               "Addy-Daphne-Legs-B.jpg-2": {
+                  "assetId": "Addy-Daphne-Legs-B.jpg-2",
+                  "objectName": "Addy-Daphne-Legs-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Legs-B.jpg"
+               }
+            }
+         }
+      },
+      "EyeSocket": {
+         "assetId": "EyeSocket",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face.jpg": {
+               "Addy-Daphne-Face.jpg-3": {
+                  "assetId": "Addy-Daphne-Face.jpg-3",
+                  "objectName": "Addy-Daphne-Face.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-B.jpg": {
+               "Addy-Daphne-Face-B.jpg-6": {
+                  "assetId": "Addy-Daphne-Face-B.jpg-6",
+                  "objectName": "Addy-Daphne-Face-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-B.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-S.jpg": {
+               "Addy-Daphne-Face-S.jpg-10": {
+                  "assetId": "Addy-Daphne-Face-S.jpg-10",
+                  "objectName": "Addy-Daphne-Face-S.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-S.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-S.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-D.jpg": {
+               "Addy-Daphne-Face-D.jpg": {
+                  "assetId": "Addy-Daphne-Face-D.jpg",
+                  "objectName": "Addy-Daphne-Face-D.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Face-D.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Face-D.jpg"
+               }
+            }
+         }
+      },
+      "Mouth": {
+         "assetId": "Mouth",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Mouth.jpg": {
+               "Addy-Daphne-Mouth.jpg-3": {
+                  "assetId": "Addy-Daphne-Mouth.jpg-3",
+                  "objectName": "Addy-Daphne-Mouth.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Mouth.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Mouth.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Mouth-B.jpg": {
+               "Addy-Daphne-Mouth-B.jpg-1": {
+                  "assetId": "Addy-Daphne-Mouth-B.jpg-1",
+                  "objectName": "Addy-Daphne-Mouth-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Mouth-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Mouth-B.jpg"
+               }
+            }
+         }
+      },
+      "Arms": {
+         "assetId": "Arms",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms.jpg": {
+               "Addy-Daphne-Arms.jpg-1": {
+                  "assetId": "Addy-Daphne-Arms.jpg-1",
+                  "objectName": "Addy-Daphne-Arms.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Arms.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-SSS.jpg": {
+               "Addy-Daphne-Arms-SSS.jpg-1": {
+                  "assetId": "Addy-Daphne-Arms-SSS.jpg-1",
+                  "objectName": "Addy-Daphne-Arms-SSS.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-SSS.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Arms-SSS.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-S.jpg": {
+               "Addy-Daphne-Arms-S.jpg-3": {
+                  "assetId": "Addy-Daphne-Arms-S.jpg-3",
+                  "objectName": "Addy-Daphne-Arms-S.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-S.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Arms-S.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-B.jpg": {
+               "Addy-Daphne-Arms-B.jpg-2": {
+                  "assetId": "Addy-Daphne-Arms-B.jpg-2",
+                  "objectName": "Addy-Daphne-Arms-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Arms-B.jpg"
+               }
+            }
+         }
+      },
+      "Pupils": {
+         "assetId": "Pupils",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-01.jpg": {
+               "Addy-Daphne-Eyes-01.jpg-6": {
+                  "assetId": "Addy-Daphne-Eyes-01.jpg-6",
+                  "objectName": "Addy-Daphne-Eyes-01.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-01.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Eyes-01.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-cornea.jpg": {
+               "Addy-Daphne-cornea.jpg-1": {
+                  "assetId": "Addy-Daphne-cornea.jpg-1",
+                  "objectName": "Addy-Daphne-cornea.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-cornea.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-cornea.jpg"
+               }
+            }
+         }
+      },
+      "EyeMoisture": {
+         "assetId": "EyeMoisture",
+         "fileInfos": {}
+      },
+      "Fingernails": {
+         "assetId": "Fingernails",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms.jpg": {
+               "Addy-Daphne-Arms.jpg-1": {
+                  "assetId": "Addy-Daphne-Arms.jpg-1",
+                  "objectName": "Addy-Daphne-Arms.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Arms.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-SSS.jpg": {
+               "Addy-Daphne-Arms-SSS.jpg-1": {
+                  "assetId": "Addy-Daphne-Arms-SSS.jpg-1",
+                  "objectName": "Addy-Daphne-Arms-SSS.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-SSS.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Arms-SSS.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-S.jpg": {
+               "Addy-Daphne-Arms-S.jpg-3": {
+                  "assetId": "Addy-Daphne-Arms-S.jpg-3",
+                  "objectName": "Addy-Daphne-Arms-S.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-S.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Arms-S.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-B.jpg": {
+               "Addy-Daphne-Arms-B.jpg-2": {
+                  "assetId": "Addy-Daphne-Arms-B.jpg-2",
+                  "objectName": "Addy-Daphne-Arms-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Arms-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Arms-B.jpg"
+               }
+            }
+         }
+      },
+      "Cornea": {
+         "assetId": "Cornea",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-01.jpg": {
+               "Addy-Daphne-Eyes-01.jpg-6": {
+                  "assetId": "Addy-Daphne-Eyes-01.jpg-6",
+                  "objectName": "Addy-Daphne-Eyes-01.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-01.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Eyes-01.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-cornea.jpg": {
+               "Addy-Daphne-cornea.jpg-1": {
+                  "assetId": "Addy-Daphne-cornea.jpg-1",
+                  "objectName": "Addy-Daphne-cornea.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-cornea.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-cornea.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-B.jpg": {
+               "Addy-Daphne-Eyes-B.jpg-1": {
+                  "assetId": "Addy-Daphne-Eyes-B.jpg-1",
+                  "objectName": "Addy-Daphne-Eyes-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Eyes-B.jpg"
+               }
+            }
+         }
+      },
+      "Irises": {
+         "assetId": "Irises",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-01.jpg": {
+               "Addy-Daphne-Eyes-01.jpg-6": {
+                  "assetId": "Addy-Daphne-Eyes-01.jpg-6",
+                  "objectName": "Addy-Daphne-Eyes-01.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-01.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Eyes-01.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-B.jpg": {
+               "Addy-Daphne-Eyes-B.jpg-1": {
+                  "assetId": "Addy-Daphne-Eyes-B.jpg-1",
+                  "objectName": "Addy-Daphne-Eyes-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Eyes-B.jpg"
+               }
+            }
+         }
+      },
+      "Sclera": {
+         "assetId": "Sclera",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-01.jpg": {
+               "Addy-Daphne-Eyes-01.jpg-6": {
+                  "assetId": "Addy-Daphne-Eyes-01.jpg-6",
+                  "objectName": "Addy-Daphne-Eyes-01.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy Daphne Eyes/Addy-Daphne-Eyes-01.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Eyes-01.jpg"
+               }
+            }
+         }
+      },
+      "Toenails": {
+         "assetId": "Toenails",
+         "fileInfos": {
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs.jpg": {
+               "Addy-Daphne-Legs.jpg-1": {
+                  "assetId": "Addy-Daphne-Legs.jpg-1",
+                  "objectName": "Addy-Daphne-Legs.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Legs.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-SSS.jpg": {
+               "Addy-Daphne-Legs-SSS.jpg-1": {
+                  "assetId": "Addy-Daphne-Legs-SSS.jpg-1",
+                  "objectName": "Addy-Daphne-Legs-SSS.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-SSS.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Legs-SSS.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-S.jpg": {
+               "Addy-Daphne-Legs-S.jpg-3": {
+                  "assetId": "Addy-Daphne-Legs-S.jpg-3",
+                  "objectName": "Addy-Daphne-Legs-S.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-S.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Legs-S.jpg"
+               }
+            },
+            "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-B.jpg": {
+               "Addy-Daphne-Legs-B.jpg-2": {
+                  "assetId": "Addy-Daphne-Legs-B.jpg-2",
+                  "objectName": "Addy-Daphne-Legs-B.jpg",
+                  "sourceFileName": "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/Addy/Addy Daphne/Addy-Daphne-Legs-B.jpg",
+                  "targetFileName": "F:/MetaDemo/Assets/daftex/Addy-Daphne-Legs-B.jpg"
+               }
+            }
+         }
+      }
+   }
+}

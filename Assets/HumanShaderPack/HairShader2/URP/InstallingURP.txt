@@ -1,0 +1,5 @@
+Please make sure your project is ready for Universal Render pipeline either via the Unity Hub or packages that correspond to that render pipieline setup.
+
+Unzip the Unity Package and import custom package.
+
+Open the URP scene and use the URP based shaders provided for your hair.

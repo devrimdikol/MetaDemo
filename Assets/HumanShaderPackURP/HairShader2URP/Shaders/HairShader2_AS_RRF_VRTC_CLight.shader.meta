@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bf802e2e1bad2814f86b150f9c603e50
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _VRTC: {fileID: 2800000, guid: 782ef3ffdf428ce48934f5774562ea50, type: 3}
+  - _NormalMap: {fileID: 2800000, guid: cf24829a9bef4734582a302bd6f6d130, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
