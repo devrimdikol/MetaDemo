@@ -1,0 +1,2240 @@
+{
+	"DTU Version" : 3,
+	"Asset Name" : "BodyChain_HeartChain_Torso",
+	"Asset Type" : "SkeletalMesh",
+	"Asset Id" : "BodyChain_HeartChain_Torso_56944",
+	"FBX File" : "D:/Proj/Unity3d/BehaviorTree/Assets/Daz3D/BodyChain_HeartChain_Torso/BodyChain_HeartChain_Torso.fbx",
+	"Base FBX File" : "D:/Proj/Unity3d/BehaviorTree/Assets/Daz3D/BodyChain_HeartChain_Torso/BodyChain_HeartChain_Torso_base.fbx",
+	"HD FBX File" : "D:/Proj/Unity3d/BehaviorTree/Assets/Daz3D/BodyChain_HeartChain_Torso/BodyChain_HeartChain_Torso_HD.fbx",
+	"Import Folder" : "D:/Proj/Unity3d/BehaviorTree/Assets/Daz3D/BodyChain_HeartChain_Torso/",
+	"Product Name" : "",
+	"Product Component Name" : "",
+	"Materials" : [
+		{
+			"Version" : 3,
+			"Asset Name" : "BodyChain_HeartChain_Torso",
+			"Material Name" : "Heart",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a34a4d",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#7f7f7f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a34a4d",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "BodyChain_HeartChain_Torso",
+			"Material Name" : "InnerHeart",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a30d0a",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#7f7f7f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a30d0a",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "BodyChain_HeartChain_Torso",
+			"Material Name" : "HeartConnector",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a3a3a3",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#7f7f7f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a3a3a3",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "BodyChain_HeartChain_Torso",
+			"Material Name" : "Chain1",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a35f26",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#7f7f7f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a35f26",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "BodyChain_HeartChain_Torso",
+			"Material Name" : "Chain2",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a36c40",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#7f7f7f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a36c40",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "BodyChain_HeartChain_Torso",
+			"Material Name" : "Chain3",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a36d1d",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#7f7f7f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a36d1d",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "BodyChain_HeartChain_Torso",
+			"Material Name" : "Chain4",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a3532c",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#7f7f7f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a3532c",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "BodyChain_HeartChain_Torso",
+			"Material Name" : "Invis1",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a3a3a3",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#7f7f7f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a3a3a3",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		}
+	],
+	"Morphs" : [
+		{
+			"Name" : "!!Breast Under Smoother1",
+			"Label" : "!!Breast Under Smoother1"
+		},
+		{
+			"Name" : "!!Breast Under Smoother2",
+			"Label" : "!!Breast Under Smoother2"
+		},
+		{
+			"Name" : "!Breast Diameter",
+			"Label" : "!Breast Diameter"
+		},
+		{
+			"Name" : "!Breast Height Upper",
+			"Label" : "!Breast Height Upper"
+		},
+		{
+			"Name" : "!Breast Large",
+			"Label" : "!Breast Large"
+		},
+		{
+			"Name" : "!Breast Pointed",
+			"Label" : "!Breast Pointed"
+		},
+		{
+			"Name" : "!Breast Sag1",
+			"Label" : "!Breast Sag1"
+		},
+		{
+			"Name" : "!Breast Sag2",
+			"Label" : "!Breast Sag2"
+		},
+		{
+			"Name" : "!Breast Small",
+			"Label" : "!Breast Small"
+		},
+		{
+			"Name" : "!Breast Top Curve1",
+			"Label" : "!Breast Top Curve1"
+		},
+		{
+			"Name" : "!Breast Top Curve2",
+			"Label" : "!Breast Top Curve2"
+		},
+		{
+			"Name" : "!Breast Zero",
+			"Label" : "!Breast Zero"
+		},
+		{
+			"Name" : "Areola Depth",
+			"Label" : "Areola Depth"
+		},
+		{
+			"Name" : "Armpit Curve",
+			"Label" : "Armpit Curve"
+		},
+		{
+			"Name" : "Bunny Breats",
+			"Label" : "Bunny Breats"
+		},
+		{
+			"Name" : "Center Gap Depth",
+			"Label" : "Center Gap Depth"
+		},
+		{
+			"Name" : "Center Gap Height",
+			"Label" : "Center Gap Height"
+		},
+		{
+			"Name" : "Center Gap Width",
+			"Label" : "Center Gap Width"
+		},
+		{
+			"Name" : "Cynder Nipple G8",
+			"Label" : "Cynder Nipple G8"
+		},
+		{
+			"Name" : "EX_Breathe",
+			"Label" : "EX_Breathe"
+		},
+		{
+			"Name" : "EX_BreatheBelly",
+			"Label" : "EX_BreatheBelly"
+		},
+		{
+			"Name" : "FBMBodybuilderDetails",
+			"Label" : "FBMBodybuilderDetails"
+		},
+		{
+			"Name" : "FBMBodybuilderSize",
+			"Label" : "FBMBodybuilderSize"
+		},
+		{
+			"Name" : "FBMEmaciated",
+			"Label" : "FBMEmaciated"
+		},
+		{
+			"Name" : "FBMPearFigure",
+			"Label" : "FBMPearFigure"
+		},
+		{
+			"Name" : "Face Lower Narrow",
+			"Label" : "Face Lower Narrow"
+		},
+		{
+			"Name" : "Face Lower Widen",
+			"Label" : "Face Lower Widen"
+		},
+		{
+			"Name" : "GHD Abdominal Muscle",
+			"Label" : "GHD Abdominal Muscle"
+		},
+		{
+			"Name" : "GHD Abdominal Muscles In",
+			"Label" : "GHD Abdominal Muscles In"
+		},
+		{
+			"Name" : "GHD Arm Muscles",
+			"Label" : "GHD Arm Muscles"
+		},
+		{
+			"Name" : "GHD Arms Size",
+			"Label" : "GHD Arms Size"
+		},
+		{
+			"Name" : "GHD Arms Thin",
+			"Label" : "GHD Arms Thin"
+		},
+		{
+			"Name" : "GHD Back Define",
+			"Label" : "GHD Back Define"
+		},
+		{
+			"Name" : "GHD Back Heavy",
+			"Label" : "GHD Back Heavy"
+		},
+		{
+			"Name" : "GHD Back Muscles",
+			"Label" : "GHD Back Muscles"
+		},
+		{
+			"Name" : "GHD Legs Thin",
+			"Label" : "GHD Legs Thin"
+		},
+		{
+			"Name" : "GHD Neck Define",
+			"Label" : "GHD Neck Define"
+		},
+		{
+			"Name" : "GHD Neck Shape 01",
+			"Label" : "GHD Neck Shape 01"
+		},
+		{
+			"Name" : "GHD Neck Shape 02",
+			"Label" : "GHD Neck Shape 02"
+		},
+		{
+			"Name" : "GHD Neck Thin",
+			"Label" : "GHD Neck Thin"
+		},
+		{
+			"Name" : "GHD Ribcage Thin",
+			"Label" : "GHD Ribcage Thin"
+		},
+		{
+			"Name" : "GHD Scapula Out",
+			"Label" : "GHD Scapula Out"
+		},
+		{
+			"Name" : "GHD Shoulders Smaller",
+			"Label" : "GHD Shoulders Smaller"
+		},
+		{
+			"Name" : "GHD Stomach Heavy",
+			"Label" : "GHD Stomach Heavy"
+		},
+		{
+			"Name" : "GHD Stomach In",
+			"Label" : "GHD Stomach In"
+		},
+		{
+			"Name" : "GHD Underarm Fat",
+			"Label" : "GHD Underarm Fat"
+		},
+		{
+			"Name" : "GHD Waist Thin",
+			"Label" : "GHD Waist Thin"
+		},
+		{
+			"Name" : "GHD Waist Thin Full",
+			"Label" : "GHD Waist Thin Full"
+		},
+		{
+			"Name" : "GHD Waist ThinB",
+			"Label" : "GHD Waist ThinB"
+		},
+		{
+			"Name" : "Jaw Corner Angle",
+			"Label" : "Jaw Corner Angle"
+		},
+		{
+			"Name" : "Jaw Depth",
+			"Label" : "Jaw Depth"
+		},
+		{
+			"Name" : "Jaw Width",
+			"Label" : "Jaw Width"
+		},
+		{
+			"Name" : "SLF Back",
+			"Label" : "SLF Back"
+		},
+		{
+			"Name" : "SLF Glutes 01",
+			"Label" : "SLF Glutes 01"
+		},
+		{
+			"Name" : "SLF Pelvis 01",
+			"Label" : "SLF Pelvis 01"
+		},
+		{
+			"Name" : "SL_Glutes Inflate More",
+			"Label" : "SL_Glutes Inflate More"
+		},
+		{
+			"Name" : "eJCMFrown_HD_div2",
+			"Label" : "eJCMFrown_HD_div2"
+		}
+	],
+	"Subdivisions" : [
+	],
+	"dForce" : [
+	]
+}

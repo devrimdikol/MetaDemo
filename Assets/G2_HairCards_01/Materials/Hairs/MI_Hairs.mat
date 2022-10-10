@@ -21,12 +21,12 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: MI_Hairs
-  m_Shader: {fileID: 4800000, guid: 42c69e93dd059d843bc60033091ee162, type: 3}
-  m_ValidKeywords:
-  - _ISNORMALID_ON
+  m_Shader: {fileID: 4800000, guid: b28c82e9ab2c93a4298c66a57528342f, type: 3}
+  m_ValidKeywords: []
   m_InvalidKeywords:
   - _ALPHATEST_ON
   - _DOUBLESIDED_ON
+  - _ISNORMALID_ON
   - _NORMALMAP_TANGENT_SPACE
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -64,8 +64,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseTone_Alpha:
-        m_Texture: {fileID: 2800000, guid: d33913761d8e47041b874944b7db3ec2, type: 3}
-        m_Scale: {x: 1, y: -1}
+        m_Texture: {fileID: 2800000, guid: b13d148b90fa0e64aa2d7ea3756e68f5, type: 3}
+        m_Scale: {x: -3.78, y: -1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
         m_Texture: {fileID: 0}
@@ -141,7 +141,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
         m_Texture: {fileID: 2800000, guid: cf24829a9bef4734582a302bd6f6d130, type: 3}
-        m_Scale: {x: 3, y: 1}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMapOS:
         m_Texture: {fileID: 0}
@@ -209,7 +209,7 @@ Material:
     - _AlphaCutoffPrepass: 0.5
     - _AlphaCutoffShadow: 0.5
     - _AlphaDstBlend: 0
-    - _AlphaLevel: 0
+    - _AlphaLevel: 0.01
     - _AlphaSrcBlend: 1
     - _AlphaToMask: 0
     - _AlphaToMaskInspectorValue: 0
@@ -223,7 +223,7 @@ Material:
     - _CullMode: 0
     - _CullModeForward: 0
     - _Custom_ColourMix: 0.25
-    - _Cutoff: 1
+    - _Cutoff: 0.02
     - _DepthOffsetEnable: 0
     - _DetailAlbedoScale: 1
     - _DetailNormalScale: 1
@@ -238,7 +238,7 @@ Material:
     - _DoubleSidedEnable: 1
     - _DoubleSidedNormalMode: 0
     - _DstBlend: 0
-    - _EdgeRimLight: 0
+    - _EdgeRimLight: 4
     - _EmissiveColorMode: 1
     - _EmissiveExposureWeight: 1
     - _EmissiveIntensity: 1
@@ -264,16 +264,16 @@ Material:
     - _Light_Bias: 0
     - _Light_Scale: 0
     - _LinkDetailsWithBase: 1
-    - _MainHighlightExponent: 0
-    - _MainHighlightPosition: -1
-    - _MainHighlightStrength: 0
+    - _MainHighlightExponent: 118
+    - _MainHighlightPosition: -0.87
+    - _MainHighlightStrength: 0.09
     - _MaterialID: 1
     - _Metallic: 0
     - _MetallicBoost: 0
     - _MetallicRemapMax: 1
     - _MetallicRemapMin: 0
     - _MipBias: -1
-    - _Noise: 0.207
+    - _Noise: 0.139
     - _NoisePower: 0
     - _NoiseTilling: 40
     - _NormalMapSpace: 0
@@ -296,9 +296,9 @@ Material:
     - _RoughnessRoot: 0.39
     - _RoughnessTip: 0.3
     - _SSS: 0
-    - _SecondaryHighlightExponent: 0
-    - _SecondaryHighlightPosition: -1
-    - _SecondaryHighlightStrength: 0
+    - _SecondaryHighlightExponent: 208
+    - _SecondaryHighlightPosition: 0.65
+    - _SecondaryHighlightStrength: 0.64
     - _Smoothness: 0.5
     - _SmoothnessRemapMax: 1
     - _SmoothnessRemapMin: 0
@@ -307,7 +307,7 @@ Material:
     - _SpecularOcclusionMode: 1
     - _SpecularShift: 0.7
     - _SpecularTint: 0.7
-    - _Spread: -2
+    - _Spread: 0.82
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
@@ -326,13 +326,13 @@ Material:
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
     - _Thickness: 1
-    - _TransAmbient: 0
-    - _TransDirect: 0.838
-    - _TransNormalDistortion: 0.248
-    - _TransScattering: 12.8
+    - _TransAmbient: 0.048
+    - _TransDirect: 0.273
+    - _TransNormalDistortion: 0.193
+    - _TransScattering: 15.9
     - _TransShadow: 1
-    - _Translucency: 17.3
-    - _TranslucentEffect: 89.6
+    - _Translucency: 10.4
+    - _TranslucentEffect: 15
     - _TransmissionEnable: 1
     - _TransmitionPower: 0.05
     - _TransparentBackfaceEnable: 0
@@ -347,7 +347,7 @@ Material:
     - _UVEmissive: 0
     - _UseEmissiveIntensity: 0
     - _UseShadowThreshold: 0
-    - _VariaitonFromBase: 0.878
+    - _VariaitonFromBase: 0.829
     - _XTiling: 0
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 3
@@ -358,7 +358,7 @@ Material:
     - _isNormalID: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _BaseColorGloss: {r: 0, g: 0, b: 0, a: 1}
+    - _BaseColorGloss: {r: 0.4339623, g: 0.4339623, b: 0.4339623, a: 0}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _BaseTipColorPower: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -370,12 +370,12 @@ Material:
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _MainHighlight_Color: {r: 0, g: 0, b: 0, a: 0}
+    - _MainHighlight_Color: {r: 1, g: 1, b: 1, a: 0}
     - _RootColor: {r: 0.31132075, g: 0.18484592, b: 0.107200034, a: 1}
-    - _SecondaryHighlightColor: {r: 0, g: 0, b: 0, a: 0}
+    - _SecondaryHighlightColor: {r: 1, g: 1, b: 1, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
-    - _StrandTone1: {r: 0, g: 0, b: 0, a: 1}
-    - _StrandTone2: {r: 0, g: 0, b: 0, a: 1}
+    - _StrandTone1: {r: 0.31132078, g: 0.12269757, b: 0, a: 0.72156864}
+    - _StrandTone2: {r: 0.31132078, g: 0, b: 0, a: 0.6156863}
     - _TangentA: {r: 0, g: 0.6206355, b: 0.8773585, a: 0.003921569}
     - _TangentB: {r: 0.8489916, g: 1, b: 0, a: 0.003921569}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}

@@ -1,0 +1,3144 @@
+{
+	"DTU Version" : 3,
+	"Asset Name" : "Jacket",
+	"Asset Type" : "SkeletalMesh",
+	"Asset Id" : "Jacket_28896",
+	"FBX File" : "D:/Proj/Unity3d/PROJECTEDEN/Assets/Daz3D/Jacket/Jacket.fbx",
+	"Base FBX File" : "D:/Proj/Unity3d/PROJECTEDEN/Assets/Daz3D/Jacket/Jacket_base.fbx",
+	"HD FBX File" : "D:/Proj/Unity3d/PROJECTEDEN/Assets/Daz3D/Jacket/Jacket_HD.fbx",
+	"Import Folder" : "D:/Proj/Unity3d/PROJECTEDEN/Assets/Daz3D/Jacket/",
+	"Product Name" : "",
+	"Product Component Name" : "",
+	"Materials" : [
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Main_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a7a7a7",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#f1a2a4",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a7a7a7",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_refl1.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Flap_bj",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a7a7a7",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#f1a2a4",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a7a7a7",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_refl1.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Waistband_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#341b1a",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 0.3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#bcb3b0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#341b1a",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Sleeve_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a7a7a7",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#f1a2a4",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a7a7a7",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_refl1.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Cuff_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#341b1a",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 0.3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#bcb3b0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#341b1a",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Tape_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#2b1515",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 0.3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#bcb3b0",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#2b1515",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Teeth_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#676250",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#feffb2",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_tran01.jpg"
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#676250",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#fcffdb",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_refl1.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Hood_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#a7a7a7",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#f1a2a4",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.001,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#a7a7a7",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_refl1.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "SliderBody_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#676250",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#feffb2",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#676250",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#fcffdb",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_refl1.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Pull_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#676250",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#feffb2",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#676250",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#fcffdb",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_refl1.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Button_BJ",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#676250",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#feffb2",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.01,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#676250",
+					"Data Type" : "Texture",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_Normal01.jpg"
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#fcffdb",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_refl1.jpg"
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 3,
+			"Asset Name" : "Jacket",
+			"Material Name" : "Hood lining",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "",
+			"Properties" : [
+				{
+					"Name" : "Asset Type",
+					"Value" : "",
+					"Data Type" : "String",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#fffde9",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_diff01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : 0.6,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#dbdbc6",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_spec01.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_bump01.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : 0.5,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/Public/Documents/My DAZ 3D Library/Runtime/Textures/RainbowLight/BomberJacket(G8F)/Jacket_disp01.jpg"
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : -0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : 0.7,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#fffde9",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : 0.25,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : 89.9,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : 0.1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : 3,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : 0,
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : 1,
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		}
+	],
+	"Morphs" : [
+		{
+			"Name" : "!Breast Diameter",
+			"Label" : "!Breast Diameter"
+		},
+		{
+			"Name" : "!Breast Large",
+			"Label" : "!Breast Large"
+		},
+		{
+			"Name" : "!Breast Pointed",
+			"Label" : "!Breast Pointed"
+		},
+		{
+			"Name" : "!Breast Sag1",
+			"Label" : "!Breast Sag1"
+		},
+		{
+			"Name" : "!Breast Sag2",
+			"Label" : "!Breast Sag2"
+		},
+		{
+			"Name" : "!Breast Small",
+			"Label" : "!Breast Small"
+		},
+		{
+			"Name" : "Addy Daphne Body",
+			"Label" : "Addy Daphne Body"
+		},
+		{
+			"Name" : "Addy Daphne Head",
+			"Label" : "Addy Daphne Head"
+		},
+		{
+			"Name" : "Addy Daphne Smile Full",
+			"Label" : "Addy Daphne Smile Full"
+		},
+		{
+			"Name" : "Breasts Apart",
+			"Label" : "Breasts Apart"
+		},
+		{
+			"Name" : "EX_Breathe",
+			"Label" : "EX_Breathe"
+		},
+		{
+			"Name" : "EX_BreatheBelly",
+			"Label" : "EX_BreatheBelly"
+		},
+		{
+			"Name" : "FBM-FWSAWilla",
+			"Label" : "FBM-FWSAWilla"
+		},
+		{
+			"Name" : "FBMAnnabelle",
+			"Label" : "FBMAnnabelle"
+		},
+		{
+			"Name" : "FBMEmaciated",
+			"Label" : "FBMEmaciated"
+		},
+		{
+			"Name" : "FBMPearFigure",
+			"Label" : "FBMPearFigure"
+		},
+		{
+			"Name" : "FBMVictoria8",
+			"Label" : "FBMVictoria8"
+		},
+		{
+			"Name" : "FHM-FWSAWilla",
+			"Label" : "FHM-FWSAWilla"
+		},
+		{
+			"Name" : "FHMAnnabelle",
+			"Label" : "FHMAnnabelle"
+		},
+		{
+			"Name" : "FHMVictoria8",
+			"Label" : "FHMVictoria8"
+		},
+		{
+			"Name" : "GHD Abdominal Muscle",
+			"Label" : "GHD Abdominal Muscle"
+		},
+		{
+			"Name" : "GHD Abdominal Muscle Belly In",
+			"Label" : "GHD Abdominal Muscle Belly In"
+		},
+		{
+			"Name" : "GHD Abdominal Muscles In",
+			"Label" : "GHD Abdominal Muscles In"
+		},
+		{
+			"Name" : "GHD Arms Size",
+			"Label" : "GHD Arms Size"
+		},
+		{
+			"Name" : "GHD Back Heavy",
+			"Label" : "GHD Back Heavy"
+		},
+		{
+			"Name" : "GHD Breasts Shape 06",
+			"Label" : "GHD Breasts Shape 06"
+		},
+		{
+			"Name" : "GHD Breasts Small 03 Nipples",
+			"Label" : "GHD Breasts Small 03 Nipples"
+		},
+		{
+			"Name" : "GHD Breasts Small 04 Nipples",
+			"Label" : "GHD Breasts Small 04 Nipples"
+		},
+		{
+			"Name" : "GHD Glutes Apple",
+			"Label" : "GHD Glutes Apple"
+		},
+		{
+			"Name" : "GHD Glutes Wide",
+			"Label" : "GHD Glutes Wide"
+		},
+		{
+			"Name" : "GHD Stomach Heavy",
+			"Label" : "GHD Stomach Heavy"
+		},
+		{
+			"Name" : "GHD Wrist Bones Out",
+			"Label" : "GHD Wrist Bones Out"
+		},
+		{
+			"Name" : "Nipples Apply",
+			"Label" : "Nipples Apply"
+		},
+		{
+			"Name" : "Nipples Inflate",
+			"Label" : "Nipples Inflate"
+		}
+	],
+	"Subdivisions" : [
+	],
+	"dForce" : [
+	]
+}

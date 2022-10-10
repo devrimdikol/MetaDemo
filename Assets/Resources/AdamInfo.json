@@ -1,0 +1,566 @@
+[
+	{
+		"Name" : "Brows Arch",
+		"Label" : "Brows Arch"
+	},
+	{
+		"Name" : "Brows Depth",
+		"Label" : "Brows Depth"
+	},
+	{
+		"Name" : "Brows Distance",
+		"Label" : "Brows Distance"
+	},
+	{
+		"Name" : "Brows Height",
+		"Label" : "Brows Height"
+	},
+	{
+		"Name" : "Brows Inner Height",
+		"Label" : "Brows Inner Height"
+	},
+	{
+		"Name" : "Brows Middle Height",
+		"Label" : "Brows Middle Height"
+	},
+	{
+		"Name" : "Brows Outer Height",
+		"Label" : "Brows Outer Height"
+	},
+	{
+		"Name" : "Cheeks Bones Height",
+		"Label" : "Cheeks Bones Height"
+	},
+	{
+		"Name" : "Cheeks Bones Size",
+		"Label" : "Cheeks Bones Size"
+	},
+	{
+		"Name" : "Cheeks Chubby",
+		"Label" : "Cheeks Chubby"
+	},
+	{
+		"Name" : "Cheeks Chubby Lower A",
+		"Label" : "Cheeks Chubby Lower A"
+	},
+	{
+		"Name" : "Cheeks Chubby Lower B",
+		"Label" : "Cheeks Chubby Lower B"
+	},
+	{
+		"Name" : "Cheeks Crease",
+		"Label" : "Cheeks Crease"
+	},
+	{
+		"Name" : "Cheeks Define",
+		"Label" : "Cheeks Define"
+	},
+	{
+		"Name" : "Cheeks Depth A",
+		"Label" : "Cheeks Depth A"
+	},
+	{
+		"Name" : "Cheeks Lower Depth",
+		"Label" : "Cheeks Lower Depth"
+	},
+	{
+		"Name" : "Chin Cleft",
+		"Label" : "Chin Cleft"
+	},
+	{
+		"Name" : "Chin Define",
+		"Label" : "Chin Define"
+	},
+	{
+		"Name" : "Chin Depth",
+		"Label" : "Chin Depth"
+	},
+	{
+		"Name" : "Chin Length",
+		"Label" : "Chin Length"
+	},
+	{
+		"Name" : "Chin Pointed",
+		"Label" : "Chin Pointed"
+	},
+	{
+		"Name" : "Chin Scale",
+		"Label" : "Chin Scale"
+	},
+	{
+		"Name" : "Chin Valley Depth",
+		"Label" : "Chin Valley Depth"
+	},
+	{
+		"Name" : "Chin Valley Height",
+		"Label" : "Chin Valley Height"
+	},
+	{
+		"Name" : "EX_Breathe",
+		"Label" : "Breathe"
+	},
+	{
+		"Name" : "EX_BreatheBelly",
+		"Label" : "BreatheBelly"
+	},
+	{
+		"Name" : "Eye Lids Bottom Puffy",
+		"Label" : "Eye Lids Bottom Puffy"
+	},
+	{
+		"Name" : "Eye Lids Bottom Sag",
+		"Label" : "Eye Lids Bottom Sag"
+	},
+	{
+		"Name" : "Eye Lids Depth",
+		"Label" : "Eye Lids Depth"
+	},
+	{
+		"Name" : "Eye Lids Height A",
+		"Label" : "Eye Lids Height A"
+	},
+	{
+		"Name" : "Eye Lids Height B",
+		"Label" : "Eye Lids Height B"
+	},
+	{
+		"Name" : "Eyes Asian A",
+		"Label" : "Eyes Asian A"
+	},
+	{
+		"Name" : "Eyes Asian B",
+		"Label" : "Eyes Asian B"
+	},
+	{
+		"Name" : "Eyes Depth (Alt)",
+		"Label" : "Eyes Depth (Alt)"
+	},
+	{
+		"Name" : "Eyes Distance",
+		"Label" : "Eyes Distance"
+	},
+	{
+		"Name" : "Eyes Droop",
+		"Label" : "Eyes Droop"
+	},
+	{
+		"Name" : "Eyes Height A",
+		"Label" : "Eyes Height A"
+	},
+	{
+		"Name" : "Eyes Height B",
+		"Label" : "Eyes Height B"
+	},
+	{
+		"Name" : "Eyes Lacrementals down",
+		"Label" : "Eyes Lacrimals Down"
+	},
+	{
+		"Name" : "Eyes Outer Width",
+		"Label" : "Eyes Outer Width"
+	},
+	{
+		"Name" : "Eyes Scale",
+		"Label" : "Eyes Scale"
+	},
+	{
+		"Name" : "FBMBodybuilderDetails",
+		"Label" : "Bodybuilder Details"
+	},
+	{
+		"Name" : "FBMBodybuilderSize",
+		"Label" : "Bodybuilder Size"
+	},
+	{
+		"Name" : "FBMEmaciated",
+		"Label" : "Emaciated"
+	},
+	{
+		"Name" : "Face Lower Narrow",
+		"Label" : "Face Lower Narrow"
+	},
+	{
+		"Name" : "Face Lower Widen",
+		"Label" : "Face Lower Widen"
+	},
+	{
+		"Name" : "Jaw Corner Angle",
+		"Label" : "Jaw Corner Angle"
+	},
+	{
+		"Name" : "Jaw Corner Height",
+		"Label" : "Jaw Corner Height"
+	},
+	{
+		"Name" : "Jaw Corner Width (Alt)",
+		"Label" : "Jaw Corner Width (Alt)"
+	},
+	{
+		"Name" : "Jaw Curve (Alt)",
+		"Label" : "Jaw Curve (Alt)"
+	},
+	{
+		"Name" : "Jaw Definition",
+		"Label" : "Jaw Definition"
+	},
+	{
+		"Name" : "Jaw Depth",
+		"Label" : "Jaw Depth"
+	},
+	{
+		"Name" : "Jaw Height (Alt)",
+		"Label" : "Jaw Height (Alt)"
+	},
+	{
+		"Name" : "Jaw Shape Angular",
+		"Label" : "Jaw Shape Angular"
+	},
+	{
+		"Name" : "Jaw Shape Ovall",
+		"Label" : "Jaw Shape Ovall"
+	},
+	{
+		"Name" : "Jaw Strength",
+		"Label" : "Jaw Strength"
+	},
+	{
+		"Name" : "Jaw Width",
+		"Label" : "Jaw Width"
+	},
+	{
+		"Name" : "Lip Line Curves Inner",
+		"Label" : "Lip Line Curves Inner"
+	},
+	{
+		"Name" : "Lip Line Curves Outer",
+		"Label" : "Lip Line Curves Outer"
+	},
+	{
+		"Name" : "Lip Lower Curves A",
+		"Label" : "Lip Lower Curves A"
+	},
+	{
+		"Name" : "Lip Lower Fuller",
+		"Label" : "Lip Lower Fuller"
+	},
+	{
+		"Name" : "Lip Lower Height 2",
+		"Label" : "Lip Lower Height 2"
+	},
+	{
+		"Name" : "Lip Lower Volume",
+		"Label" : "Lip Lower Volume"
+	},
+	{
+		"Name" : "Lip Lower Width",
+		"Label" : "Lip Lower Width"
+	},
+	{
+		"Name" : "Lip Upper Corners Pout",
+		"Label" : "Lip Upper Corners Pout"
+	},
+	{
+		"Name" : "Lip Upper Depth",
+		"Label" : "Lip Upper Depth"
+	},
+	{
+		"Name" : "Lip Upper Depth 2",
+		"Label" : "Lip Upper Depth 2"
+	},
+	{
+		"Name" : "Lip Upper Fine Tune A",
+		"Label" : "Lip Upper Fine Tune A"
+	},
+	{
+		"Name" : "Lip Upper Fine Tune B",
+		"Label" : "Lip Upper Fine Tune B"
+	},
+	{
+		"Name" : "Lip Upper Fuller",
+		"Label" : "Lip Upper Fuller"
+	},
+	{
+		"Name" : "Lip Upper Height",
+		"Label" : "Lip Upper Height"
+	},
+	{
+		"Name" : "Lip Upper Height 2",
+		"Label" : "Lip Upper Height 2"
+	},
+	{
+		"Name" : "Lip Upper Peak Height",
+		"Label" : "Lip Upper Peak Height"
+	},
+	{
+		"Name" : "Lip Upper Peaks Distance",
+		"Label" : "Lip Upper Peaks Distance"
+	},
+	{
+		"Name" : "Lip Upper Peaks Smooth",
+		"Label" : "Lip Upper Peaks Smooth"
+	},
+	{
+		"Name" : "Lip Upper Volume",
+		"Label" : "Lip Upper Volume"
+	},
+	{
+		"Name" : "Lip Upper Width",
+		"Label" : "Lip Upper Width"
+	},
+	{
+		"Name" : "Lips Thin (Alt)",
+		"Label" : "Lips Thin (Alt)"
+	},
+	{
+		"Name" : "Mouth Corner Tips",
+		"Label" : "Mouth Corner Tips"
+	},
+	{
+		"Name" : "Mouth Corners Depth",
+		"Label" : "Mouth Corners Depth"
+	},
+	{
+		"Name" : "Mouth Corners Vertical Adjust",
+		"Label" : "Mouth Corners Vertical Adjust"
+	},
+	{
+		"Name" : "Mouth Depth In Out",
+		"Label" : "Mouth Depth In Out"
+	},
+	{
+		"Name" : "Mouth Height (Alt)",
+		"Label" : "Mouth Height (Alt)"
+	},
+	{
+		"Name" : "Mouth Scale",
+		"Label" : "Mouth Scale"
+	},
+	{
+		"Name" : "Mouth Small",
+		"Label" : "Mouth Small"
+	},
+	{
+		"Name" : "Mouth Width (Alt)",
+		"Label" : "Mouth Width (Alt)"
+	},
+	{
+		"Name" : "Nose Angle Down",
+		"Label" : "Nose Angle Down"
+	},
+	{
+		"Name" : "Nose Angle Up",
+		"Label" : "Nose Angle Up"
+	},
+	{
+		"Name" : "Nose Bridge Depth (Alt)",
+		"Label" : "Nose Bridge Depth (Alt)"
+	},
+	{
+		"Name" : "Nose Bridge Style Low",
+		"Label" : "Nose Bridge Style Low"
+	},
+	{
+		"Name" : "Nose Bridge Width (Alt)",
+		"Label" : "Nose Bridge Width (Alt)"
+	},
+	{
+		"Name" : "Nose Broken",
+		"Label" : "Nose Broken"
+	},
+	{
+		"Name" : "Nose Bulbus",
+		"Label" : "Nose Bulbus"
+	},
+	{
+		"Name" : "Nose Curve In",
+		"Label" : "Nose Curve In"
+	},
+	{
+		"Name" : "Nose Curve Out",
+		"Label" : "Nose Curve Out"
+	},
+	{
+		"Name" : "Nose Depth (Alt)",
+		"Label" : "Nose Depth (Alt)"
+	},
+	{
+		"Name" : "Nose Lower Height",
+		"Label" : "Nose Lower Height"
+	},
+	{
+		"Name" : "Nose Scale",
+		"Label" : "Nose Scale"
+	},
+	{
+		"Name" : "Nose Size Depth",
+		"Label" : "Nose Size Depth"
+	},
+	{
+		"Name" : "Nose Style Angular A",
+		"Label" : "Nose Style Angular A"
+	},
+	{
+		"Name" : "Nose Style Asian A",
+		"Label" : "Nose Style Asian A"
+	},
+	{
+		"Name" : "Nose Style Asian B",
+		"Label" : "Nose Style Asian B"
+	},
+	{
+		"Name" : "Nose Style Asian C",
+		"Label" : "Nose Style Asian C"
+	},
+	{
+		"Name" : "Nose Style Germanic",
+		"Label" : "Nose Style Germanic"
+	},
+	{
+		"Name" : "Nose Style Greek",
+		"Label" : "Nose Style Greek"
+	},
+	{
+		"Name" : "Nose Style Indian A",
+		"Label" : "Nose Style Indian A"
+	},
+	{
+		"Name" : "Nose Style Nordic",
+		"Label" : "Nose Style Nordic"
+	},
+	{
+		"Name" : "Nose Style Roman",
+		"Label" : "Nose Style Roman"
+	},
+	{
+		"Name" : "Nose Width Center Line",
+		"Label" : "Nose Width Center Line"
+	},
+	{
+		"Name" : "Nose Wing Arc",
+		"Label" : "Nose Wing Arc"
+	},
+	{
+		"Name" : "Nose Wing Upper Height",
+		"Label" : "Nose Wing Upper Height"
+	},
+	{
+		"Name" : "Nose Wing Volume",
+		"Label" : "Nose Wing Volume"
+	},
+	{
+		"Name" : "Nose Wing Width",
+		"Label" : "Nose Wing Width"
+	},
+	{
+		"Name" : "Nostrils Size",
+		"Label" : "Nostrils Size"
+	},
+	{
+		"Name" : "PBMNailsLength",
+		"Label" : "Nails Length"
+	},
+	{
+		"Name" : "PBMNipples",
+		"Label" : "Nipples"
+	},
+	{
+		"Name" : "PHMEarsElfLong",
+		"Label" : "Ears Elf Long"
+	},
+	{
+		"Name" : "PHMEyelashesLengthUpper",
+		"Label" : "Eyelashes Length Upper"
+	},
+	{
+		"Name" : "SL_Glutes Crease",
+		"Label" : "SL_Glutes Crease"
+	},
+	{
+		"Name" : "SL_Glutes Inflate More",
+		"Label" : "SL_Glutes Inflate More"
+	},
+	{
+		"Name" : "SL_Legs Gape Widen",
+		"Label" : "SL_Legs Gape Widen"
+	},
+	{
+		"Name" : "Under Jaw Double Chin A",
+		"Label" : "Under Jaw Double Chin A"
+	},
+	{
+		"Name" : "Under Jaw Double Chin B",
+		"Label" : "Under Jaw Double Chin B"
+	},
+	{
+		"Name" : "Under Jaw Neck Height",
+		"Label" : "Under Jaw Neck Height"
+	},
+	{
+		"Name" : "eCTRLBrowInnerUp-Down",
+		"Label" : "Brow Inner Up-Down"
+	},
+	{
+		"Name" : "eCTRLBrowUp-Down",
+		"Label" : "Brow Up-Down"
+	},
+	{
+		"Name" : "eCTRLBrowUp-DownL",
+		"Label" : "Brow Up-Down Left"
+	},
+	{
+		"Name" : "eCTRLBrowUp-DownR",
+		"Label" : "Brow Up-Down Right"
+	},
+	{
+		"Name" : "eCTRLEyelidsLowerUpDown",
+		"Label" : "Eyelids Lower Up-Down"
+	},
+	{
+		"Name" : "eCTRLEyelidsUpperUp-Down",
+		"Label" : "Eyelids Upper Up-Down"
+	},
+	{
+		"Name" : "eCTRLEyesClosed",
+		"Label" : "Eyes Closed"
+	},
+	{
+		"Name" : "eCTRLEyesClosedL",
+		"Label" : "Eyes Closed Left"
+	},
+	{
+		"Name" : "eCTRLEyesClosedR",
+		"Label" : "Eyes Closed Right"
+	},
+	{
+		"Name" : "eCTRLFrown_HD",
+		"Label" : "Frown HD"
+	},
+	{
+		"Name" : "eCTRLLipsPucker-Pressed",
+		"Label" : "Lips Pucker-Pressed"
+	},
+	{
+		"Name" : "eCTRLMouthClosed",
+		"Label" : "Mouth Closed"
+	},
+	{
+		"Name" : "eCTRLMouthFrown",
+		"Label" : "Mouth Frown"
+	},
+	{
+		"Name" : "eCTRLMouthSide-SideL",
+		"Label" : "eCTRLMouthSide-SideL"
+	},
+	{
+		"Name" : "eCTRLMouthSide-SideR",
+		"Label" : "eCTRLMouthSide-SideR"
+	},
+	{
+		"Name" : "eCTRLMouthSmile",
+		"Label" : "Mouth Smile"
+	},
+	{
+		"Name" : "eJCMFrown_HD_div2",
+		"Label" : "eJCMFrown_HD_div2"
+	}
+]
