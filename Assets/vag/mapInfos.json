@@ -1,0 +1,185 @@
+{
+   "object": "Geometry Shell 3",
+   "shape": "Shell",
+   "numberOfMaterials": 18,
+   "materials": {
+      "Torso": {
+         "assetId": "Torso",
+         "fileInfos": {}
+      },
+      "Face": {
+         "assetId": "Face",
+         "fileInfos": {}
+      },
+      "Lips": {
+         "assetId": "Lips",
+         "fileInfos": {}
+      },
+      "Teeth": {
+         "assetId": "Teeth",
+         "fileInfos": {}
+      },
+      "Ears": {
+         "assetId": "Ears",
+         "fileInfos": {}
+      },
+      "Legs": {
+         "assetId": "Legs",
+         "fileInfos": {}
+      },
+      "EyeSocket": {
+         "assetId": "EyeSocket",
+         "fileInfos": {}
+      },
+      "Mouth": {
+         "assetId": "Mouth",
+         "fileInfos": {}
+      },
+      "Arms": {
+         "assetId": "Arms",
+         "fileInfos": {}
+      },
+      "Pupils": {
+         "assetId": "Pupils",
+         "fileInfos": {}
+      },
+      "EyeMoisture": {
+         "assetId": "EyeMoisture",
+         "fileInfos": {}
+      },
+      "Fingernails": {
+         "assetId": "Fingernails",
+         "fileInfos": {}
+      },
+      "Cornea": {
+         "assetId": "Cornea",
+         "fileInfos": {}
+      },
+      "Irises": {
+         "assetId": "Irises",
+         "fileInfos": {}
+      },
+      "Sclera": {
+         "assetId": "Sclera",
+         "fileInfos": {}
+      },
+      "Toenails": {
+         "assetId": "Toenails",
+         "fileInfos": {}
+      },
+      "new_gens_V8_1840_Genitalia": {
+         "assetId": "new_gens_V8_1840_Genitalia-1",
+         "fileInfos": {
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapD_Default_P_1009.jpg": {
+               "GensMapD_Default_P_1009.jpg-1": {
+                  "assetId": "GensMapD_Default_P_1009.jpg-1",
+                  "objectName": "GensMapD_Default_P_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapD_Default_P_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapD_Default_P_1009.jpg"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapSSS_Default_P_1009.jpg": {
+               "GensMapSSS_Default_P_1009.jpg-1": {
+                  "assetId": "GensMapSSS_Default_P_1009.jpg-1",
+                  "objectName": "GensMapSSS_Default_P_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapSSS_Default_P_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapSSS_Default_P_1009.jpg"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapS_Default_Dry_1009.jpg": {
+               "GensMapS_Default_Dry_1009.jpg-2": {
+                  "assetId": "GensMapS_Default_Dry_1009.jpg-2",
+                  "objectName": "GensMapS_Default_Dry_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapS_Default_Dry_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapS_Default_Dry_1009.jpg"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapB_Default_1009.jpg": {
+               "GensMapB_Default_1009.jpg-1": {
+                  "assetId": "GensMapB_Default_1009.jpg-1",
+                  "objectName": "GensMapB_Default_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapB_Default_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapB_Default_1009.jpg"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapNM_Default_1009.png": {
+               "GensMapNM_Default_1009.png-1": {
+                  "assetId": "GensMapNM_Default_1009.png-1",
+                  "objectName": "GensMapNM_Default_1009.png",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapNM_Default_1009.png",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapNM_Default_1009.png"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapT_Default_1009.jpg": {
+               "GensMapT_Default_1009.jpg-1": {
+                  "assetId": "GensMapT_Default_1009.jpg-1",
+                  "objectName": "GensMapT_Default_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapT_Default_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapT_Default_1009.jpg"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapDisp_Default_1009.tif": {
+               "GensMapDisp_Default_1009.tif": {
+                  "assetId": "GensMapDisp_Default_1009.tif",
+                  "objectName": "GensMapDisp_Default_1009.tif",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapDisp_Default_1009.tif",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapDisp_Default_1009.tif"
+               }
+            }
+         }
+      },
+      "new_gens_V8_1840_Anus": {
+         "assetId": "new_gens_V8_1840_Anus-1",
+         "fileInfos": {
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapD_Default_P_1009.jpg": {
+               "GensMapD_Default_P_1009.jpg-1": {
+                  "assetId": "GensMapD_Default_P_1009.jpg-1",
+                  "objectName": "GensMapD_Default_P_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapD_Default_P_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapD_Default_P_1009.jpg"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapSSS_Default_P_1009.jpg": {
+               "GensMapSSS_Default_P_1009.jpg-1": {
+                  "assetId": "GensMapSSS_Default_P_1009.jpg-1",
+                  "objectName": "GensMapSSS_Default_P_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapSSS_Default_P_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapSSS_Default_P_1009.jpg"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapB_Default_1009.jpg": {
+               "GensMapB_Default_1009.jpg-1": {
+                  "assetId": "GensMapB_Default_1009.jpg-1",
+                  "objectName": "GensMapB_Default_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapB_Default_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapB_Default_1009.jpg"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapNM_Default_1009.png": {
+               "GensMapNM_Default_1009.png-1": {
+                  "assetId": "GensMapNM_Default_1009.png-1",
+                  "objectName": "GensMapNM_Default_1009.png",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapNM_Default_1009.png",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapNM_Default_1009.png"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapS_Default_Dry_1009.jpg": {
+               "GensMapS_Default_Dry_1009.jpg-2": {
+                  "assetId": "GensMapS_Default_Dry_1009.jpg-2",
+                  "objectName": "GensMapS_Default_Dry_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapS_Default_Dry_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapS_Default_Dry_1009.jpg"
+               }
+            },
+            "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapT_Default_1009.jpg": {
+               "GensMapT_Default_1009.jpg-1": {
+                  "assetId": "GensMapT_Default_1009.jpg-1",
+                  "objectName": "GensMapT_Default_1009.jpg",
+                  "sourceFileName": "D:/Workspace/My DAZ 3D Library/Runtime/Textures/3feetwolf/NewGenitaliaForVictoria8/GensMapT_Default_1009.jpg",
+                  "targetFileName": "C:/Users/Andramathel/Desktop/vag/GensMapT_Default_1009.jpg"
+               }
+            }
+         }
+      }
+   }
+}
